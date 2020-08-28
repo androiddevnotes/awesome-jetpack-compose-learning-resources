@@ -18,7 +18,7 @@
 <img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </p><br>
 
-**Learn Jetpack Compose Android** aims to be your starting point to find the finest learning content for Jetpack Compose suits of libraries.
+**Learn Jetpack Compose Android** aims to be your starting point to find the finest learning content for Jetpack Compose suites of libraries.
 
 Content in languages other than English is tagged according to ISO 639-2 codes.
 
