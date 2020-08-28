@@ -7,9 +7,9 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/24?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
-  <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
-  <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/24?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84"/></a>
+  <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
 
 </p>
@@ -23,15 +23,15 @@
 
 ## Contents
 
-:art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
+:art: [**Pattern**](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#art-pattern)
 
-- [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
+- [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#mvvm)
 
-- [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi)
+- [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#mvi)
 
-:books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#books-tech-stacklibraries)
+:books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#books-tech-stacklibraries)
 
-:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#memo-contributing)
+:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#memo-contributing)
 
 
 ## :art: Pattern
@@ -198,7 +198,7 @@ See [contributing.md](contributing.md)
 ## :computer: Find us on
 
 <div align="center">
-	<a href="https://github.com/androiddevnotes"> GitHub </a> / <a href="https://www.instagram.com/androiddevnotes"> Instagram </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a>
+	<a href="https://github.com/androiddevnotes"> GitHub </a> / <a href="https://www.instagram.com/androiddevnotes"> Instagram </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a> / <a href="https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q"> YouTube </a> 
 	<br><br>
-    <img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
+    <img width="320px" src="https://github.com/androiddevnotes/android-dev-weekly/blob/master/assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </div>
