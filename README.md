@@ -2,7 +2,7 @@
 <h1 align="center">Learn Jetpack Compose Android</h1></br>
 
 <p align="center">
-:eyeglasses: A continuously updated list on learning Jetpack compose for Android apps.
+:eyeglasses: A continuously updated list of learning Jetpack compose for Android apps.
 </p>
 <br>
 
