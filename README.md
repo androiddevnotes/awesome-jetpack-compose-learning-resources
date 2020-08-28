@@ -375,6 +375,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - A collection of extension libraries for Jetpack Compose.
 
+- https://github.com/airbnb/Showkase
+
+    - 🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements.
+
 ### Resources
 
 - https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
