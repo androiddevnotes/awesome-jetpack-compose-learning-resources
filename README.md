@@ -474,7 +474,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
     - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29k7f0)
 
 
-- https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2ylseu | Asked by https://www.reddit.com/user/CraZy_LegenD/
+- How will compose mix with Dagger/Hilt? Since we can get a view model inside a compose, how does injection goes into the constructor? Would saved instance state become obsolete? Would saved state handle become obsolete too?
 
     - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2ylseu)
 
