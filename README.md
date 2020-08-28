@@ -361,6 +361,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Apps
 
+- https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
+
+    - 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.
+
+- https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
+
+    - Use the advanced search on GitHub and find open-source projects to your liking.
+
 ### Libraries
 
 - https://github.com/chrisbanes/accompanist
@@ -384,7 +392,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - https://github.com/Naveentp/Awesome-Jetpack-Compose
 
     - A collaborative list of awesome jetpack compose resources.
-
 
 ## Podcasts
 
@@ -433,7 +440,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - https://github.com/Mishkun/jetpack-compose-faq
 
-- Checkout #Twitter-Threads
+- Checkout [#Twitter-Threads](https://github.com/androiddevnotes/learn-jetpack-compose-android#twitter-threads)
 
 - https://stackoverflow.com/questions/58558163/how-does-jetpack-compose-work-under-the-hood
 
