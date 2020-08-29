@@ -347,6 +347,13 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI
 
+### Kotlin London
+
+- https://www.youtube.com/watch?v=MQcfIj4gPWs
+
+    - Daniel Montoya Ramos  - Android Jetpack Compose
+
+    - Daniel will show a new way of building UI's in Android using Jetpack Compose, comparing Imperative vs Declarative approaches. He'll look at managing state changes and composing functions.
 
 ## Books
 
