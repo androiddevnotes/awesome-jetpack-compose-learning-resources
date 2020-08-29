@@ -16,7 +16,7 @@
 
 <br>
 <p align="center">
-<img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
+<img width="320px" src="assets/jetpack_compose_androiddevnotes.png" alt="jetpack compose androiddevnotes logo"></img>
 </p><br>
 
 **Awesome Jetpack Compose Android Apps** aims to be the starting point for developers to find an Android app with a Jetpack Compose suite of libraries.
