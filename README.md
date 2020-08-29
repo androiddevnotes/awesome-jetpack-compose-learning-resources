@@ -61,6 +61,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 :memo: [**Contributing**](https://github.com/androiddevnotes/learn-jetpack-compose-android#memo-contributing)
 
+:seedling: [**Contributors**](https://github.com/androiddevnotes/learn-jetpack-compose-android#seedling-contributors)
+
 
 ## Docs, Codelabs and Official Projects
 
@@ -539,6 +541,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 ## :memo: Contributing
 
 See [contributing.md](contributing.md)
+
+## :seedling: Contributors
+
+Thank you to all the contributors!
+
+See [AUTHORS](AUTHORS)
 
 ## :computer: Find us on
 
