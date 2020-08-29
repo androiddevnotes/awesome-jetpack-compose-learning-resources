@@ -283,71 +283,69 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Explore how reactive and declarative paradigms can be applied to Android UI development, making it easier for developers to integrate these patterns into their Android apps with Kotlin.
 
-### DroidCon
+### [droidcon](https://www.droidcon.com)
 
 - https://www.droidcon.com/media-detail?video=353079951
 
     - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android ​
 
-### Android Makers
+### [Android Makers](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
 - https://www.youtube.com/watch?v=qoE34lpyo_Q
 
     - Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN
 
-
-### JetBrains TV
+### [JetBrains TV](https://www.youtube.com/user/JetBrainsTV)
 
 - https://www.youtube.com/watch?v=I5zRmCheVVg
 
     - Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019
 
-### DutchAUG
+### [DutchAUG](https://www.youtube.com/channel/UC4qbsTjxkQOsCf2ymYY85_g)
 
 - https://www.youtube.com/watch?v=Z7Qs9XYGyCM
 
     - All about Jetpack Compose
 
-### Google Developers
+### [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
 - https://www.youtube.com/watch?v=JcZqtBy9MT8
 
     - Google I/O'19 - Chet Haase Interview on Jetpack Compose
 
-### Wajahat Karim
+### [Wajahat Karim](https://www.youtube.com/channel/UCV1ga_tJD-MMs7cTApKDwYQ)
 
 - https://www.youtube.com/watch?v=iJYCL1BlTkM
 
     - Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020
 
-### Raywenderlich 
+### [raywenderlich.com](https://www.youtube.com/channel/UCz3cM4qLljXcQ8oWjMPgKZA) 
 
 - https://www.youtube.com/watch?v=3VMMOFoSOZg
 
     - Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9
 
-### AlexZh Dev
+### [AlexZh Dev](https://www.youtube.com/channel/UCGaWGZ23II5am251vQCEt_Q)
 
 - https://www.youtube.com/watch?v=vKaqd4gXsIk
 
     - Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)
 
-
 ## Video Tutorials, Courses, and Playlists
 
-### hitherejoe_dev
+### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
 
 - https://www.youtube.com/watch?v=JQW1Ykzhfes&list=PLygXnm_B3n4wUW_rIdk62mpSd68XPvBG8
 
     - Morning Minimise - Live Streams: Jetpack Compose Playlist on YouTube by hitherejoe_dev
 
-### MindOrks
+### [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
 
 - https://www.youtube.com/watch?v=JdTtRkT03gY
 
     - Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI
 
-### Kotlin London
+### [Kotlin London](https://www.youtube.com/channel/UCv4-wxKsrlwh83KShW5QPwA)
 
 - https://www.youtube.com/watch?v=MQcfIj4gPWs
 
