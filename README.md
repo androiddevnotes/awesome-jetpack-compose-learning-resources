@@ -46,8 +46,8 @@
 
 - https://github.com/TakuSemba/JetHub
 
-    - An Android app for viewing and predicting the latest World Rugby rankings 🏉
-    
+    - JetHub is a sample app using Github API and Jetpack components.
+
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, Accompanist, Data Binding, LiveData, ViewModel, Compose
 
 
