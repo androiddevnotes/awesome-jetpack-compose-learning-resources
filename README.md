@@ -397,6 +397,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - A collaborative list of awesome jetpack compose resources.
 
+- https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone
+    
+    - Learn Jetpack Compose by building WhatsApp Clone
+    
 ## Podcasts
 
 - http://androidbackstage.blogspot.com/2020/08/episode-147-jetpack-compose-alpha.html
