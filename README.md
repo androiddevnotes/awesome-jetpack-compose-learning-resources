@@ -166,6 +166,13 @@
 
     - Tech Stack = Testing, Coroutines, Room, WorkManager, Accompanist, Navigation, LiveData, ViewModel, Compose
 
+- https://github.com/Akashkamble/Newzz-Compose
+
+    - News App built with JetPack Compose
+
+    - Tech Stack = Jetpack Compose, Dagger-Hilt, Lifecycle Components, Kotlin Coroutines,
+    Retrofit, Moshi, Accompanist
+    
 
 ### MVI
 
