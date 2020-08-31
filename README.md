@@ -184,7 +184,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
 
-- https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example?slide=10
+- https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example [July 23, 2020]
 
     - 360|AnDev 2020: Learning Jetpack Compose By Example
 
