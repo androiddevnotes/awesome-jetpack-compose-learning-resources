@@ -56,9 +56,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Communities](https://github.com/androiddevnotes/learn-jetpack-compose-android#communities)
 
-
-:books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/learn-jetpack-compose-android#books-tech-stacklibraries)
-
 :memo: [**Contributing**](https://github.com/androiddevnotes/learn-jetpack-compose-android#memo-contributing)
 
 :seedling: [**Contributors**](https://github.com/androiddevnotes/learn-jetpack-compose-android#seedling-contributors)
