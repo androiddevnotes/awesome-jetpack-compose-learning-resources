@@ -172,7 +172,12 @@
 
     - Tech Stack = Jetpack Compose, Dagger-Hilt, Lifecycle Components, Kotlin Coroutines,
     Retrofit, Moshi, Accompanist
-    
+
+- https://github.com/QArtur99/Compose-ShoppingList
+
+    - ShoppingList is a sample project that presents a way of implementing UI components with Jetpack Compose.
+
+    - Tech Stack = Ambient, Coroutines, Testing, Klint, Koin, Room, Livedata, Viewmodel, Lifecycle Components, Compose    
 
 ### MVI
 
