@@ -208,7 +208,7 @@
 
     - JetInstagram is an Instagram clone app built with Jetpack Compose.
 
-    - Coroutines, Testing, ExoPlayer, Accompanist, Compose
+    - Coroutines, ExoPlayer, Accompanist, Compose
 
 ## :books: Tech Stack/Libraries
 
