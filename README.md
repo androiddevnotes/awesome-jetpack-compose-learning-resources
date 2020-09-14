@@ -417,6 +417,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Twitter Threads
 
+- https://twitter.com/vinaygaba/status/1303030745011687426
+
+    - by [Vinay Gaba](https://twitter.com/vinaygaba)
+
+    - Learn more about the core concepts of #JetpackCompose right from your Twitter feed! My goal is to create easy-to-consume but useful content that does not take up too much of your time. 
+
 - https://twitter.com/objcode/status/1298740410584457216
 
     - by [Sean McQuillan](https://twitter.com/objcode)
