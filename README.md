@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/24?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/26?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -28,6 +28,8 @@
 - [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#mvvm)
 
 - [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#mvi)
+
+- [Other](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#other)
 
 :books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#books-tech-stacklibraries)
 
@@ -198,6 +200,15 @@
     - Track the progress of anything in one place
 
     - Tech Stack = Koin, Coroutines, Room, workflow, LiveData, ViewModel, Compose
+
+
+### Other
+
+- https://github.com/vipulasri/JetInstagram
+
+    - JetInstagram is an Instagram clone app built with Jetpack Compose.
+
+    - Coroutines, Testing, ExoPlayer, Accompanist, Compose
 
 ## :books: Tech Stack/Libraries
 
