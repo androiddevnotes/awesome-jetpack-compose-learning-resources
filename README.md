@@ -361,11 +361,23 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - This session covers the benefits of a declarative reactive UI system like Jetpack Compose and how it applies to real problems that Android developers have today.
 
+<br>
+
+[![Understanding Compose (Android Dev Summit '19)](http://img.youtube.com/vi/Q9MtlmmN4Q0/0.jpg)](http://www.youtube.com/watch?v=Q9MtlmmN4Q0 "Understanding Compose (Android Dev Summit '19)")
+
+<br>
+
 - https://www.youtube.com/watch?v=dtm2h-_sNDQ
 
     - What's New in Jetpack Compose (Android Dev Summit '19)
 
     - This talk introduces Compose to new audiences, including what the project is and how it is taking shape. The talk also updates people who already know about Jetpack Compose, including how the project has evolved.
+
+<br>
+
+[![What's New in Jetpack Compose (Android Dev Summit '19)](http://img.youtube.com/vi/dtm2h-_sNDQ/0.jpg)](http://www.youtube.com/watch?v=dtm2h-_sNDQ "What's New in Jetpack Compose (Android Dev Summit '19)")
+
+<br>
 
 - https://www.youtube.com/watch?v=4EFjDSijAZU [Jul 31, 2019]
 
@@ -374,11 +386,25 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
     - Jetpack Compose is a new declarative UI framework that is being developed in the open for Android. It has a very similar programming model to React, and this talk will dive deep into the internals of both to explain the similarities and differences in the architectures of both, and how React Native might be able to leverage some of this technology long term
 
 
+<br>
+
+[![Chain React 2019 - Leland Richardson - React, Meet Compose](http://img.youtube.com/vi/4EFjDSijAZU/0.jpg)](http://www.youtube.com/watch?v=4EFjDSijAZU "Chain React 2019 - Leland Richardson - React, Meet Compose")
+
+
+<br>
+
 - https://www.youtube.com/watch?v=VsStyq4Lzxo [May 8, 2019]
 
     - Declarative UI Patterns (Google I/O'19)
 
     - Explore how reactive and declarative paradigms can be applied to Android UI development, making it easier for developers to integrate these patterns into their Android apps with Kotlin.
+
+<br>
+
+[![Declarative UI Patterns (Google I/O'19)](http://img.youtube.com/vi/VsStyq4Lzxo/0.jpg)](http://www.youtube.com/watch?v=VsStyq4Lzxo "Declarative UI Patterns (Google I/O'19)")
+
+
+<br>
 
 ### [droidcon](https://www.droidcon.com)
 
@@ -392,11 +418,25 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN
 
+<br>
+
+[![Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN](http://img.youtube.com/vi/qoE34lpyo_Q/0.jpg)](http://www.youtube.com/watch?v=qoE34lpyo_Q "Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN")
+
+
+<br>
+
 ### [JetBrains TV](https://www.youtube.com/user/JetBrainsTV)
 
 - https://www.youtube.com/watch?v=I5zRmCheVVg
 
     - Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019
+
+<br>
+
+[![Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019](http://img.youtube.com/vi/I5zRmCheVVg/0.jpg)](http://www.youtube.com/watch?v=I5zRmCheVVg "Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019")
+
+
+<br>
 
 ### [DutchAUG](https://www.youtube.com/channel/UC4qbsTjxkQOsCf2ymYY85_g)
 
@@ -404,11 +444,25 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - All about Jetpack Compose
 
+<br>
+
+[![All about Jetpack Compose](http://img.youtube.com/vi/Z7Qs9XYGyCM/0.jpg)](http://www.youtube.com/watch?v=Z7Qs9XYGyCM "All about Jetpack Compose")
+
+
+<br>
+
 ### [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
 - https://www.youtube.com/watch?v=JcZqtBy9MT8
 
     - Google I/O'19 - Chet Haase Interview on Jetpack Compose
+
+<br>
+
+[![Google I/O'19 - Chet Haase Interview on Jetpack Compose](http://img.youtube.com/vi/JcZqtBy9MT8/0.jpg)](http://www.youtube.com/watch?v=JcZqtBy9MT8 "Google I/O'19 - Chet Haase Interview on Jetpack Compose")
+
+
+<br>
 
 ### [Wajahat Karim](https://www.youtube.com/channel/UCV1ga_tJD-MMs7cTApKDwYQ)
 
@@ -416,17 +470,35 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020
 
+<br>
+
+[![Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020](http://img.youtube.com/vi/iJYCL1BlTkM/0.jpg)](http://www.youtube.com/watch?v=iJYCL1BlTkM "Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020")
+
+
+<br>
+
 ### [raywenderlich.com](https://www.youtube.com/channel/UCz3cM4qLljXcQ8oWjMPgKZA) 
 
 - https://www.youtube.com/watch?v=3VMMOFoSOZg
 
     - Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9
 
+<br>
+
+[![Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9](http://img.youtube.com/vi/3VMMOFoSOZg/0.jpg)](http://www.youtube.com/watch?v=3VMMOFoSOZg "Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9")
+
+
+<br>
+
 ### [AlexZh Dev](https://www.youtube.com/channel/UCGaWGZ23II5am251vQCEt_Q)
 
 - https://www.youtube.com/watch?v=vKaqd4gXsIk
 
     - Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)
+
+<br>
+
+<br>
 
 ## Video Tutorials, Courses, and Playlists
 
