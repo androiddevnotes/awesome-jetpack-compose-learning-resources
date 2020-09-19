@@ -210,6 +210,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Jetpack Compose どうなの？（Android Dev Summit 2019報告会）by Yuki Anzai
 
+<br>
+
+<p align="center">
+<img src="assets/ADS2019_yanzm_page-0001.jpg" alt="Jetpack Compose どうなの？（Android Dev Summit 2019報告会）by Yuki Anzai"></img>
+</p>
+
+<br>
+
 - https://speakerdeck.com/lnicolet/mvi-with-jetpack-compose [September 09, 2019]
 
     - MVI with Jetpack Compose by Luca Nicoletti
