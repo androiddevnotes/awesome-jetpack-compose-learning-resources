@@ -206,7 +206,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/yanzm/jetpack-compose-dounafalse-android-dev-summit-2019bao-gao-hui[November 15, 2019] [JA]
+- https://speakerdeck.com/yanzm/jetpack-compose-dounafalse-android-dev-summit-2019bao-gao-hui [November 15, 2019] [JA]
 
     - Jetpack Compose どうなの？（Android Dev Summit 2019報告会）by Yuki Anzai
 
