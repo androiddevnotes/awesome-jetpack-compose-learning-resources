@@ -185,6 +185,15 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - 360|AnDev 2020: Learning Jetpack Compose By Example
 
+<br>
+
+<p align="center">
+<img src="assets/Learn_Jetpack_Compose_By_Example_page-0001.jpg" alt="jetpack compose androiddevnotes logo"></img>
+</p>
+
+<br>
+
+
 - https://speakerdeck.com/alexzhukovich/lets-build-an-android-ui-with-jetpack-compose [April 20, 2020]
 
     - Let’s build an Android UI with Jetpack Compose by Alex Zhukovich
