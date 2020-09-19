@@ -227,6 +227,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - React, Meet Compose by Leland Richardson
 
+<br>
+
+<p align="center">
+<img src="assets/react-meet-compose-with-slide-notes_page-0001.jpg" alt="React, Meet Compose by Leland Richardson"></img>
+</p>
+
+<br>
+
 - https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android [June 22, 2019]
 
     - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android
