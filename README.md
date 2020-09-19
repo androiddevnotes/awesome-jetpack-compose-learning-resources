@@ -317,7 +317,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 [![What's new in Compose Design Tools](http://img.youtube.com/vi/exjL2kGPngI/0.jpg)](http://www.youtube.com/watch?v=exjL2kGPngI "What's new in Compose Design Tools")
 
-
 <br>
 
 - https://www.youtube.com/watch?v=U5BwfqBpiWU [Jun 10, 2020]
@@ -326,17 +325,35 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - We outline our roadmap, what is ready for use right now, share our direction in areas that are still evolving, and show how the tight integration with tooling makes the development experience even better.
 
+<br>
+
+[![Jetpack Compose](http://img.youtube.com/vi/U5BwfqBpiWU/0.jpg)](http://www.youtube.com/watch?v=U5BwfqBpiWU "Jetpack Compose")
+
+<br>
+
 - https://www.youtube.com/watch?v=oEy6nJaMtLM
 
     - #AskAndroid at Android Dev Summit 2019 - Jetpack Compose
 
     - Discussion of Jetpack Compose questions submitted by Android developers online.
 
+<br>
+
+[![#AskAndroid at Android Dev Summit 2019 - Jetpack Compose](http://img.youtube.com/vi/oEy6nJaMtLM/0.jpg)](http://www.youtube.com/watch?v=oEy6nJaMtLM "#AskAndroid at Android Dev Summit 2019 - Jetpack Compose")
+
+<br>
+
 - https://www.youtube.com/watch?v=SPsdRXcgqjI
 
     - Building Jetpack Compose
 
     - Come behind the scenes with the Jetpack Compose team to hear about the motivations for the project and how Compose simplifies and accelerates UI development on Android.
+
+<br>
+
+[![Building Jetpack Compose](http://img.youtube.com/vi/SPsdRXcgqjI/0.jpg)](http://www.youtube.com/watch?v=SPsdRXcgqjI "Building Jetpack Compose")
+
+<br>
 
 - https://www.youtube.com/watch?v=Q9MtlmmN4Q0 [Oct 24, 2019]
 
