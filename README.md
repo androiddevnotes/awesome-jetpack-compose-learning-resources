@@ -277,6 +277,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Jetpack Compose is the new next-generation UI toolkit. It uses a declarative component-based paradigm for building UIs easily and quickly. It’s written entirely in Kotlin and embraces the style and ergonomics of the Kotlin language. 
 
+<br>
+
+[![Thinking in Compose](http://img.youtube.com/vi/SMOhl9RK0BA/0.jpg)](http://www.youtube.com/watch?v=SMOhl9RK0BA "Thinking in Compose")
+
+<br>
+
 - https://www.youtube.com/watch?v=DDd6IOlH3io [Aug 26, 2020]
 
     - Compose by example
