@@ -289,6 +289,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - We’ll walk through examples of theming, animation, layout, and more, demonstrating how to customize and combine components to build real UIs. 
 
+<br>
+
+[![Compose for existing apps](http://img.youtube.com/vi/DDd6IOlH3io/0.jpg)](http://www.youtube.com/watch?v=DDd6IOlH3io "Compose for existing apps")
+
+<br>
+
 - https://www.youtube.com/watch?v=PjQdFmiDgwk [Aug 26, 2020]
 
     - Compose for existing apps
