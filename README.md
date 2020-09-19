@@ -498,6 +498,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+[![Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)](http://img.youtube.com/vi/vKaqd4gXsIk/0.jpg)](http://www.youtube.com/watch?v=vKaqd4gXsIk "Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)")
+
+
 <br>
 
 ## Video Tutorials, Courses, and Playlists
