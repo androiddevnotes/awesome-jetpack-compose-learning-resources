@@ -222,6 +222,13 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - MVI with Jetpack Compose by Luca Nicoletti
 
+<br>
+
+<p align="center">
+<img src="assets/MVI_with_Jetpack_Compose__1__page-0001.jpg" alt="MVI with Jetpack Compose by Luca Nicoletti"></img>
+</p>
+
+<br>
 
 - https://speakerdeck.com/lelandrichardson/react-meet-compose [July 12, 2019]
 
@@ -238,6 +245,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android [June 22, 2019]
 
     - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android
+
+<br>
+
+<p align="center">
+<img src="assets/Compose_Composed_page-0001.jpg" alt="Jetpack Compose — Next Gen Kotlin UI Toolkit for Android"></img>
+</p>
+
+<br>
 
 - https://speakerdeck.com/takusemba/jetpack-compose [May 21, 2019]
 
