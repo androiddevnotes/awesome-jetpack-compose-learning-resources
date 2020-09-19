@@ -291,7 +291,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-[![Compose for existing apps](http://img.youtube.com/vi/DDd6IOlH3io/0.jpg)](http://www.youtube.com/watch?v=DDd6IOlH3io "Compose for existing apps")
+[![Compose by example](http://img.youtube.com/vi/DDd6IOlH3io/0.jpg)](http://www.youtube.com/watch?v=DDd6IOlH3io "Compose by example")
 
 <br>
 
@@ -301,11 +301,24 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - In this talk, you'll learn how to do that! We'll cover topics such as: adding Compose to your existing Views and embedding Views in Compose, using your existing View theme and current app architecture in Compose, testing all of that code, and much more. 
 
+<br>
+
+[![Compose for existing apps](http://img.youtube.com/vi/PjQdFmiDgwk/0.jpg)](http://www.youtube.com/watch?v=PjQdFmiDgwk "Compose for existing apps")
+
+<br>
+
 - https://www.youtube.com/watch?v=exjL2kGPngI
 
     - What's new in Compose Design Tools
 
     - Have a sneak peek at some of the toolings we are working on to help you develop your Jetpack Compose applications.
+
+<br>
+
+[![What's new in Compose Design Tools](http://img.youtube.com/vi/exjL2kGPngI/0.jpg)](http://www.youtube.com/watch?v=exjL2kGPngI "What's new in Compose Design Tools")
+
+
+<br>
 
 - https://www.youtube.com/watch?v=U5BwfqBpiWU [Jun 10, 2020]
 
