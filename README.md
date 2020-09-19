@@ -258,6 +258,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - Jetpack Compose by TakuSemba
 
+<br>
+
+<p align="center">
+<img src="assets/2019_5_20_google_io_page-0001.jpg" alt="Jetpack Compose by TakuSemba"></img>
+</p>
+
+<br>
+
 
 ## Talks, Conferences, and Interviews
 
