@@ -65,6 +65,12 @@
 
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, Accompanist, Data Binding, LiveData, ViewModel, Compose
 
+- https://github.com/gastsail/JetExample
+
+    - Jetpack Compose UI components examples
+
+    - Tech Stack = Coroutines, Firestore, Accompanist, LiveData, ViewModel, Compose
+
 
 - https://github.com/stackinflow/AndroidAppTemplate
 
