@@ -71,6 +71,12 @@
 
     - Tech Stack = Coroutines, Firestore, Accompanist, LiveData, ViewModel, Compose
 
+- https://github.com/iambaljeet/TwitterCompose
+
+    - TwitterCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android.
+
+    - Tech Stack = Accompanist, Compose
+
 
 - https://github.com/stackinflow/AndroidAppTemplate
 
