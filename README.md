@@ -569,6 +569,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Libraries
 
+- https://github.com/wasabeef/composable-images
+
+    - The Composable Images is a library providing Jetpack Compose wrapper for Glide, Picasso, and Coil.
+
 - https://github.com/pocmo/recompose
 
     - recompose is a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
