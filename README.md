@@ -571,6 +571,20 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+### [All Techies](https://www.youtube.com/c/AllTechies)
+
+- https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb
+    - Jetpack Compose beginners playlist from All Techies.
+    - Pankaj Rai (aka All Techies) is a Firebase GDE.
+    - The playlist contains videos on using jetpack compose with Firebase, MLKit, CameraX etc.
+    - The playlist may not be updated, please check the channel for more videos in the series.
+
+<br>    
+
+[![](https://i.ytimg.com/vi/h5cKaeEBhiQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb "Jetpack Compose")
+
+<br>
+
 ## Books
 
 - https://joebirch.co/exploring-jetpack-compose/ [NOT PUBLISHED YET]
