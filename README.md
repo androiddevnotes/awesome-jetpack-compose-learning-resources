@@ -505,6 +505,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Video Tutorials, Courses, and Playlists
 
+### [ThePocmo](https://www.twitch.tv/ThePocmo)
+
+- https://www.twitch.tv/ThePocmo
+
+	- About: :robot: Android Developer by day. Magic Arena player by night. :man_mage:
+
+<br>
+
 ### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
 
 - https://www.youtube.com/watch?v=JQW1Ykzhfes&list=PLygXnm_B3n4wUW_rIdk62mpSd68XPvBG8
