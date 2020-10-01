@@ -673,6 +673,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 
+- https://www.reddit.com/r/JetpackCompose/
+
 
 ## FAQ on Jetpack Compose
 
