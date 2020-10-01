@@ -205,6 +205,12 @@
     - ShoppingList is a sample project that presents a way of implementing UI components with Jetpack Compose.
 
     - Tech Stack = Ambient, Coroutines, Testing, Klint, Koin, Room, Livedata, Viewmodel, Lifecycle Components, Compose    
+    
+- https://github.com/ashar-7/JetMessenger
+
+    - JetMessenger is a Facebook Messenger clone built with Jetpack Compose.
+    
+    - Tech Stack - Coroutines, Retrofit, Accompanist, ViewModel, Compose
 
 ### MVI
 
