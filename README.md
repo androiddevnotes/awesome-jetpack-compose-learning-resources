@@ -546,6 +546,30 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+### [Yet Another Dev](https://www.youtube.com/channel/UCWg_fMIBrLDUf2Z5wMh_6rw/)
+
+- https://www.youtube.com/playlist?list=PLAVsCyDh6fYcfgZAkdp6SLMex1TVWpEFQ
+    - Jetpack compose for beginners playlist
+
+<br>
+
+[![Yet Another Dev - Jetpack compose playlist](http://img.youtube.com/vi/MxxCIW1jyeg/0.jpg)](https://www.youtube.com/playlist?list=PLAVsCyDh6fYcfgZAkdp6SLMex1TVWpEFQ "Jetpack Compose For begineers")
+
+
+<br>
+
+### [Leland Richardson](https://www.youtube.com/channel/UC12QSFbBDrf-yrGrXspdV3A)
+
+- https://www.youtube.com/playlist?list=PLcgGtmZOsTwFMT0dt2qA7pL__QN3kvsnC
+    - Jetpack Compose playlist from Leland Richardson.
+    - Leland Richardson is a Software Engineer at Google working on the Android UI Toolkit. In particular, Leland has been working on the compiler, runtime, and design of <b>Jetpack Compose</b>.
+    - The playlist may not be updated, please check the channel for more videos in the series.
+
+<br>    
+
+[![](http://img.youtube.com/vi/2j08MEbA6cs/0.jpg)](https://www.youtube.com/playlist?list=PLcgGtmZOsTwFMT0dt2qA7pL__QN3kvsnC "Jetpack Compose")
+
+<br>
 ## Books
 
 - https://joebirch.co/exploring-jetpack-compose/ [NOT PUBLISHED YET]
