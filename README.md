@@ -570,6 +570,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 [![](http://img.youtube.com/vi/2j08MEbA6cs/0.jpg)](https://www.youtube.com/playlist?list=PLcgGtmZOsTwFMT0dt2qA7pL__QN3kvsnC "Jetpack Compose")
 
 <br>
+
 ## Books
 
 - https://joebirch.co/exploring-jetpack-compose/ [NOT PUBLISHED YET]
