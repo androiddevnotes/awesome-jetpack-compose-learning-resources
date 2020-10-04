@@ -38,6 +38,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Video Tutorials, Courses, and Playlists](https://github.com/androiddevnotes/learn-jetpack-compose-android#video-tutorials-courses-and-playlists)
 
+- [Twitch Channels](ttps://github.com/androiddevnotes/learn-jetpack-compose-android#twitch-channels)
+
 - [Books](https://github.com/androiddevnotes/learn-jetpack-compose-android#books)
 
 - [Open-Source Projects](https://github.com/androiddevnotes/learn-jetpack-compose-android#open-source-projects)
@@ -505,14 +507,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Video Tutorials, Courses, and Playlists
 
-### [ThePocmo](https://www.twitch.tv/ThePocmo)
-
-- https://www.twitch.tv/ThePocmo
-
-	- About: :robot: Android Developer by day. Magic Arena player by night. :man_mage:
-
-<br>
-
 ### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
 
 - https://www.youtube.com/watch?v=JQW1Ykzhfes&list=PLygXnm_B3n4wUW_rIdk62mpSd68XPvBG8
@@ -592,6 +586,20 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 [![](https://i.ytimg.com/vi/h5cKaeEBhiQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb "Jetpack Compose")
 
 <br>
+
+
+## Twitch Channels
+
+#### [EN]
+
+- [intelligibabble](https://www.twitch.tv/intelligibabble) - Leland Richardson
+
+- [adammc331](https://www.twitch.tv/adammc331) - Adam McNeilly
+  
+- [Elliott_Troop](https://www.twitch.tv/elliott_troop) - Elliott Troop
+
+- [ThePocmo](https://www.twitch.tv/ThePocmo) - ThePocmo
+
 
 ## Books
 
