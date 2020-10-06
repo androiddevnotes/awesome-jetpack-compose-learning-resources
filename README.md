@@ -624,6 +624,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Libraries
 
+- https://github.com/skydoves/Orchestra
+
+    - 🎺 Orchestra is a collection of Android custom view compatible libraries for Jetpack Compose.
+
+- https://github.com/skydoves/Landscapist
+
+    - 🍂 Jetpack Compose image loading library for requesting and displaying images using Glide, Fresco.
+
 - https://github.com/wasabeef/composable-images
 
     - The Composable Images is a library providing Jetpack Compose wrapper for Glide, Picasso, and Coil.
