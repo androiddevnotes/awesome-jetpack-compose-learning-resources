@@ -36,9 +36,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Talks, Conferences, and Interviews](https://github.com/androiddevnotes/learn-jetpack-compose-android#talks-conferences-and-interviews)
 
-- [Video Tutorials, Courses, and Playlists](https://github.com/androiddevnotes/learn-jetpack-compose-android#video-tutorials-courses-and-playlists)
+- [Videos](https://github.com/androiddevnotes/learn-jetpack-compose-android#videos)
 
-- [Twitch Channels](ttps://github.com/androiddevnotes/learn-jetpack-compose-android#twitch-channels)
+- [Twitch Channels](https://github.com/androiddevnotes/learn-jetpack-compose-android#twitch-channels)
 
 - [Books](https://github.com/androiddevnotes/learn-jetpack-compose-android#books)
 
@@ -505,7 +505,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-## Video Tutorials, Courses, and Playlists
+## Videos
 
 ### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
 
