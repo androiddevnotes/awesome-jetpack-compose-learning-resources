@@ -212,6 +212,12 @@
     
     - Tech Stack - Coroutines, Retrofit, Accompanist, ViewModel, Compose
 
+- https://github.com/lionuncle/teamscope
+
+    - Teamscope is a form building and filling application built with Jetpack Compose.
+    
+    - Tech Stack - MVVM, Navigation, Firebase, ViewModel, Compose
+
 ### MVI
 
 - https://github.com/toggl/android
