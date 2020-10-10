@@ -243,9 +243,9 @@
 
  - https://github.com/Spikeysanju/JetQuotes
 
-    - A Quotes Application built to Demonstrate the Jetpack Compose UI 
+    - 🔖 JetQuotes is an Application built to Demonstrate the use of Jetpack Compose for building declarative UI in Android. 
 
-    - Tech Stack = Kotlin, Compose 
+    - Tech Stack = Kotlin, Compose, Jetpack Datastore, Flow, Coroutines
     
  - https://github.com/wajahatkarim3/DinoCompose
   
