@@ -81,111 +81,57 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Codelabs
 
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/index.html
+- [Jetpack Compose basics](https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/index.html) - In this codelab, you will learn * What Compose is * How to build UIs with Compose * How to manage state in composable functions * Data flow principles in Compose.
 
-    - Jetpack Compose basics
+- [Migrating to Jetpack Compose](https://codelabs.developers.google.com/codelabs/jetpack-compose-migration/index.html) - In this codelab, you'll be migrating parts of the Sunflower's plant details screen to Compose. We created a copy of the project for you to try out migrating a realistic app to Compose.🏉
 
-    - In this codelab, you will learn * What Compose is * How to build UIs with Compose * How to manage state in composable functions * Data flow principles in Compose.
+- [Layouts in Jetpack Compose](https://codelabs.developers.google.com/codelabs/jetpack-compose-layouts/index.html) - In this codelab, you'll learn how to use Compose's highest level of UI abstraction, Material Design, as well as low-level composables like Layout that allows you to measure and place elements on the screen
 
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-migration/index.html
+- [Jetpack Compose Theming](https://codelabs.developers.google.com/codelabs/jetpack-compose-theming/index.html) - In this codelab you will learn how to use Jetpack Compose's theming APIs to style your application. We'll see how to customize colors, shapes and typography so that they're used consistently throughout your application, supporting multiple themes such as light & dark theme.
 
-    - Migrating to Jetpack Compose
-
-    - In this codelab, you'll be migrating parts of the Sunflower's plant details screen to Compose. We created a copy of the project for you to try out migrating a realistic app to Compose.🏉
-
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-layouts/index.html
-    
-    - Layouts in Jetpack Compose
-    
-    - In this codelab, you'll learn how to use Compose's highest level of UI abstraction, Material Design, as well as low-level composables like Layout that allows you to measure and place elements on the screen
-
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-theming/index.html
-
-    - Jetpack Compose Theming
-
-    - In this codelab you will learn how to use Jetpack Compose's theming APIs to style your application. We'll see how to customize colors, shapes and typography so that they're used consistently throughout your application, supporting multiple themes such as light & dark theme.
-
-- https://codelabs.developers.google.com/codelabs/jetpack-compose-state/index.html
-
-    - Using State in Jetpack Compose
-
-    - In this codelab you'll learn about the state and how it can be used and manipulated by Jetpack Compose.
+- [Using State in Jetpack Compose](https://codelabs.developers.google.com/codelabs/jetpack-compose-state/index.html) - In this codelab you'll learn about the state and how it can be used and manipulated by Jetpack Compose.
 
 ### Official Projects
 
-- https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui
+- https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui - Git repository on Jetpack Compose.
 
-    - Git repository on Jetpack Compose.
+- https://github.com/androidx/androidx/tree/androidx-master-dev/ui - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
 
-- https://github.com/androidx/androidx/tree/androidx-master-dev/ui
+- https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui - AOSP mirror of Git repository on Jetpack Compose.
 
-    - Development environment for Jetpack Compose. Synchronized with Jetpack's primary development branch on AOSP.
+- https://issuetracker.google.com/issues?q=status:open%20componentid:612128 - Search Recent issues for Jetpack Compose Android.
 
-- https://github.com/aosp-mirror/platform_frameworks_support/tree/androidx-master-dev/ui
+- https://issuetracker.google.com/issues/new?component=612128 - Create new issue for Jetpack Compose Android.
 
-    - AOSP mirror of Git repository on Jetpack Compose.
-
-- https://issuetracker.google.com/issues?q=status:open%20componentid:612128
-
-    - Search Recent issues for Jetpack Compose Android.
-
-- https://issuetracker.google.com/issues/new?component=612128
-
-    - Create new issue for Jetpack Compose Android.
-
-- https://github.com/android/compose-samples
-
-    - Official Jetpack Compose Samples
+- https://github.com/android/compose-samples - Official Jetpack Compose Samples
 
 ## Articles and Tutorials
 
-- https://jetc.dev/
+- [jetc.dev](https://jetc.dev/) - Jetpack Compose Resources + Newsletter.
 
-    - Jetpack Compose Resources + Newsletter.
+- [Understanding Jetpack Compose Article Series](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050 )- Understanding Jetpack Compose — Part 1 of 2 by Leland Richardson
 
-- https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050
+- [JOE BIRCH](https://joebirch.co/tag/jetpack-compose/) - Collection of quality articles on Jetpack Compose by Joe Birch.
 
-    - Understanding Jetpack Compose — Part 1 of 2 by Leland Richardson
+- [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/) - This is a collection of Jetpack Compose examples/tutorials and demos.
 
-- https://joebirch.co/tag/jetpack-compose/
+- [Search latest jetpack compose articles on Medium](https://medium.com/tag/jetpack-compose/latest) - Collection of quality articles from Android Devs and the Android team that worked on Jetpack Compose. Sort Jetpack Compose articles by Recency on Medium. 
 
-    - Collection of quality articles on Jetpack Compose by Joe Birch.
+- [Search jetpack compose articles on Dev](https://dev.to/t/jetpackcompose) - Collection of quality articles from Android Devs. Sort Jetpack Compose articles by Recency on Dev.to
 
-- https://foso.github.io/Jetpack-Compose-Playground/
+- [Compose Academy](https://compose.academy/) - Snippets and guides for Jetpack Compose on the Android platform
 
-    - This is a collection of Jetpack Compose examples/tutorials and demos.
+- [JetpackCompose.app](https://jetpackcompose.app/) - Learn more about using Jetpack Compose in Android. How does Jetpack Compose compare to the existing Android UI Toolkit?
 
-- https://medium.com/tag/jetpack-compose/latest
+- [Jetpack Compose Archives by AlexZh](https://alexzh.com/tag/jetpack-compose/) - Quality Jetpack Compose articles by AlexZh
 
-    - Collection of quality articles from Android Devs and the Android team that worked on Jetpack Compose. Sort Jetpack Compose articles by Recency on Medium. 
-
-- https://dev.to/t/jetpackcompose
-
-    - Collection of quality articles from Android Devs. Sort Jetpack Compose articles by Recency on Dev.to
-
-- https://compose.academy/
-
-    - Snippets and guides for Jetpack Compose on the Android platform
-
-- https://jetpackcompose.app/
-
-    - Learn more about using Jetpack Compose in Android. How does Jetpack Compose compare to the existing Android UI Toolkit?
-
-- https://alexzh.com/tag/jetpack-compose/
-
-    - Quality Jetpack Compose articles by AlexZh
-
-- https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started
-
-    - In this Jetpack Compose tutorial, you’ll learn to use the new declarative UI framework being developed by the Android team by creating a cookbook app.
+- [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started) - In this Jetpack Compose tutorial, you’ll learn to use the new declarative UI framework being developed by the Android team by creating a cookbook app.
 
 ## Slides
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
 
-- https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example [July 23, 2020]
-
-    - 360|AnDev 2020: Learning Jetpack Compose By Example
+- [360|AnDev 2020: Learning Jetpack Compose By Example](https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example) [July 23, 2020]
 
 <br>
 
@@ -196,9 +142,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 <br>
 
 
-- https://speakerdeck.com/alexzhukovich/lets-build-an-android-ui-with-jetpack-compose [April 20, 2020]
-
-    - Let’s build an Android UI with Jetpack Compose by Alex Zhukovich
+- [Let’s build an Android UI with Jetpack Compose by Alex Zhukovich](https://speakerdeck.com/alexzhukovich/lets-build-an-android-ui-with-jetpack-compose) [April 20, 2020]
 
 <br>
 
@@ -208,9 +152,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/yanzm/jetpack-compose-dounafalse-android-dev-summit-2019bao-gao-hui [November 15, 2019] [JA]
-
-    - Jetpack Compose どうなの？（Android Dev Summit 2019報告会）by Yuki Anzai
+- [Jetpack Compose どうなの？（Android Dev Summit 2019報告会）by Yuki Anzai](https://speakerdeck.com/yanzm/jetpack-compose-dounafalse-android-dev-summit-2019bao-gao-hui) [November 15, 2019] [JA]
 
 <br>
 
@@ -220,9 +162,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/lnicolet/mvi-with-jetpack-compose [September 09, 2019]
-
-    - MVI with Jetpack Compose by Luca Nicoletti
+- [MVI with Jetpack Compose by Luca Nicoletti](https://speakerdeck.com/lnicolet/mvi-with-jetpack-compose) [September 09, 2019]
 
 <br>
 
@@ -232,9 +172,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/lelandrichardson/react-meet-compose [July 12, 2019]
-
-    - React, Meet Compose by Leland Richardson
+- [React, Meet Compose by Leland Richardson](https://speakerdeck.com/lelandrichardson/react-meet-compose) [July 12, 2019]
 
 <br>
 
@@ -244,9 +182,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android [June 22, 2019]
-
-    - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android
+- [Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android) [June 22, 2019]
 
 <br>
 
@@ -256,9 +192,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://speakerdeck.com/takusemba/jetpack-compose [May 21, 2019]
-
-    - Jetpack Compose by TakuSemba
+- [Jetpack Compose by TakuSemba](https://speakerdeck.com/takusemba/jetpack-compose) [May 21, 2019]
 
 <br>
 
