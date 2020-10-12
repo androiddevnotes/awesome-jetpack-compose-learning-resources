@@ -207,11 +207,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Android Developers](https://www.youtube.com/user/androiddevelopers)
 
-- https://www.youtube.com/watch?v=SMOhl9RK0BA [Aug 26, 2020]
-
-    - Thinking in Compose
-
-    - Jetpack Compose is the new next-generation UI toolkit. It uses a declarative component-based paradigm for building UIs easily and quickly. It’s written entirely in Kotlin and embraces the style and ergonomics of the Kotlin language. 
+- [Thinking in Compose](https://www.youtube.com/watch?v=SMOhl9RK0BA) [Aug 26, 2020] 
 
 <br>
 
@@ -219,11 +215,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=DDd6IOlH3io [Aug 26, 2020]
-
-    - Compose by example
-
-    - We’ll walk through examples of theming, animation, layout, and more, demonstrating how to customize and combine components to build real UIs. 
+- [Compose by example](https://www.youtube.com/watch?v=DDd6IOlH3io) [Aug 26, 2020] - We’ll walk through examples of theming, animation, layout, and more, demonstrating how to customize and combine components to build real UIs. 
 
 <br>
 
@@ -231,11 +223,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=PjQdFmiDgwk [Aug 26, 2020]
-
-    - Compose for existing apps
-
-    - In this talk, you'll learn how to do that! We'll cover topics such as: adding Compose to your existing Views and embedding Views in Compose, using your existing View theme and current app architecture in Compose, testing all of that code, and much more. 
+- [Compose for existing apps](https://www.youtube.com/watch?v=PjQdFmiDgwk) [Aug 26, 2020] - In this talk, you'll learn how to do that! We'll cover topics such as: adding Compose to your existing Views and embedding Views in Compose, using your existing View theme and current app architecture in Compose, testing all of that code, and much more. 
 
 <br>
 
@@ -243,11 +231,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=exjL2kGPngI
-
-    - What's new in Compose Design Tools
-
-    - Have a sneak peek at some of the toolings we are working on to help you develop your Jetpack Compose applications.
+- [What's new in Compose Design Tools](https://www.youtube.com/watch?v=exjL2kGPngI) [Jul 27, 2020] - Have a sneak peek at some of the toolings we are working on to help you develop your Jetpack Compose applications.
 
 <br>
 
@@ -255,11 +239,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=U5BwfqBpiWU [Jun 10, 2020]
-
-    - Jetpack Compose
-
-    - We outline our roadmap, what is ready for use right now, share our direction in areas that are still evolving, and show how the tight integration with tooling makes the development experience even better.
+- [Jetpack Compose](https://www.youtube.com/watch?v=U5BwfqBpiWU) [Jun 10, 2020] - We outline our roadmap, what is ready for use right now, share our direction in areas that are still evolving, and show how the tight integration with tooling makes the development experience even better.
 
 <br>
 
@@ -267,11 +247,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=oEy6nJaMtLM
-
-    - #AskAndroid at Android Dev Summit 2019 - Jetpack Compose
-
-    - Discussion of Jetpack Compose questions submitted by Android developers online.
+- [#AskAndroid at Android Dev Summit 2019 - Jetpack Compose](https://www.youtube.com/watch?v=oEy6nJaMtLM) [Nov 2, 2019] - Discussion of Jetpack Compose questions submitted by Android developers online.
 
 <br>
 
@@ -279,11 +255,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=SPsdRXcgqjI
-
-    - Building Jetpack Compose
-
-    - Come behind the scenes with the Jetpack Compose team to hear about the motivations for the project and how Compose simplifies and accelerates UI development on Android.
+- [Building Jetpack Compose](https://www.youtube.com/watch?v=SPsdRXcgqjI) [Oct 23, 2019] - Come behind the scenes with the Jetpack Compose team to hear about the motivations for the project and how Compose simplifies and accelerates UI development on Android.
 
 <br>
 
@@ -291,11 +263,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=Q9MtlmmN4Q0 [Oct 24, 2019]
-
-    - Understanding Compose (Android Dev Summit '19)
-
-    - This session covers the benefits of a declarative reactive UI system like Jetpack Compose and how it applies to real problems that Android developers have today.
+- [Understanding Compose (Android Dev Summit '19)](https://www.youtube.com/watch?v=Q9MtlmmN4Q0) [Oct 24, 2019] - This session covers the benefits of a declarative reactive UI system like Jetpack Compose and how it applies to real problems that Android developers have today.
 
 <br>
 
@@ -303,11 +271,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=dtm2h-_sNDQ
-
-    - What's New in Jetpack Compose (Android Dev Summit '19)
-
-    - This talk introduces Compose to new audiences, including what the project is and how it is taking shape. The talk also updates people who already know about Jetpack Compose, including how the project has evolved.
+- [What's New in Jetpack Compose (Android Dev Summit '19)](https://www.youtube.com/watch?v=dtm2h-_sNDQ) [OCt 23, 2019] - This talk introduces Compose to new audiences, including what the project is and how it is taking shape. The talk also updates people who already know about Jetpack Compose, including how the project has evolved.
 
 <br>
 
@@ -315,11 +279,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=4EFjDSijAZU [Jul 31, 2019]
-
-    - Chain React 2019 - Leland Richardson - React, Meet Compose
-
-    - Jetpack Compose is a new declarative UI framework that is being developed in the open for Android. It has a very similar programming model to React, and this talk will dive deep into the internals of both to explain the similarities and differences in the architectures of both, and how React Native might be able to leverage some of this technology long term
+- [Chain React 2019 - Leland Richardson - React, Meet Compose](https://www.youtube.com/watch?v=4EFjDSijAZU) [Jul 31, 2019] - Jetpack Compose is a new declarative UI framework that is being developed in the open for Android. It has a very similar programming model to React, and this talk will dive deep into the internals of both to explain the similarities and differences in the architectures of both, and how React Native might be able to leverage some of this technology long term
 
 
 <br>
@@ -329,11 +289,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
-- https://www.youtube.com/watch?v=VsStyq4Lzxo [May 8, 2019]
-
-    - Declarative UI Patterns (Google I/O'19)
-
-    - Explore how reactive and declarative paradigms can be applied to Android UI development, making it easier for developers to integrate these patterns into their Android apps with Kotlin.
+- [Declarative UI Patterns (Google I/O'19)](https://www.youtube.com/watch?v=VsStyq4Lzxo) [May 8, 2019] - Explore how reactive and declarative paradigms can be applied to Android UI development, making it easier for developers to integrate these patterns into their Android apps with Kotlin.
 
 <br>
 
