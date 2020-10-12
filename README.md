@@ -577,85 +577,50 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - Below FAQs are curated and taken from AMA done by Android Eng Team https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/
 
-- Do you have a navigation solution in your minds for Compose? Do we have to use fragments for NavComponent? | Asked by https://www.reddit.com/user/dtunctuncer/
+- [Do you have a navigation solution in your minds for Compose? Do we have to use fragments for NavComponent?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28qg5p) 
 
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28qg5p)
-
-- Will the lifecycle of Compose continue be like fragments(hell)or it will be simplified? We had several issues with fragments on our team but I have never heard any lifecycle issue from our iOS team with ViewControllers for years | Asked by https://www.reddit.com/user/charbgr/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29379k)
+- [Will the lifecycle of Compose continue be like fragments(hell)or it will be simplified? We had several issues with fragments on our team but I have never heard any lifecycle issue from our iOS team with ViewControllers for years](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29379k)
 
 
-- From someone who hasn't started using Compose, but plans on doing so until the end of the year: What are the worst use cases for the transition? As someone who relies on custom widgets, does Compose allow for the same level of customization (measure/layout, draw, touch, animation, accessibility, states)? | Asked by https://www.reddit.com/user/jpmcosta/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29paiu)
+- [From someone who hasn't started using Compose, but plans on doing so until the end of the year: What are the worst use cases for the transition? As someone who relies on custom widgets, does Compose allow for the same level of customization (measure/layout, draw, touch, animation, accessibility, states)?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29paiu)
     
 
-- Does jetpack compose perform better than XML? when editing complex layouts on XML my low spec laptop struggles a lot. | Asked by https://www.reddit.com/user/Superblazer/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2anoyc)
+- [Does jetpack compose perform better than XML? when editing complex layouts on XML my low spec laptop struggles a lot.](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2anoyc)
 
 
-- How binary compatibility would be handled? If new kotlin version comes out and kotlin compiler changes extension plugin API or if Compose starts to generate different bytecode, would Compose-based libraries my app uses work OK if each of them depends on different compiler version? | Asked by https://www.reddit.com/user/dimsuz/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29k7f0)
+- [How binary compatibility would be handled? If new kotlin version comes out and kotlin compiler changes extension plugin API or if Compose starts to generate different bytecode, would Compose-based libraries my app uses work OK if each of them depends on different compiler version?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29k7f0)
 
 
-- How will compose mix with Dagger/Hilt? Since we can get a view model inside a compose, how does injection goes into the constructor? Would saved instance state become obsolete? Would saved state handle become obsolete too?
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2ylseu)
+- [How will compose mix with Dagger/Hilt? Since we can get a view model inside a compose, how does injection goes into the constructor? Would saved instance state become obsolete? Would saved state handle become obsolete too?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2ylseu)
 
 
-- Given the supposedly equal treatment for all Android languages, what is the Compose story for Java and C++ developers? | Asked by https://www.reddit.com/user/pjmlp/
+- [Given the supposedly equal treatment for all Android languages, what is the Compose story for Java and C++ developers?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2kugzx)
 
 
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2kugzx)
+- [Will you port ConstraintLayout/MotionLayout in Compose?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g297x0u)
 
 
-- Will you port ConstraintLayout/MotionLayout in Compose? | Asked by https://www.reddit.com/user/charbgr/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g297x0u)
+- [Is Jetpack Compose going to replace few existing components completely? Or they will coexist together like Fragments, Recyclerview etc](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28siic)
 
 
-- Is Jetpack Compose going to replace few existing components completely? Or they will coexist together like Fragments, Recyclerview etc | Asked by https://www.reddit.com/user/chavanshashank/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28siic)
+- [How do I wrap my head around the concept of Ambients?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2aj8ug)
 
 
-- How do I wrap my head around the concept of Ambients? | Asked by https://www.reddit.com/user/s_a_u_r_a_b_h/
+- [What are the best ways to manage a state for Jetpack compose? And should that state only be for that only composable function or whole visible screen?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28u2fy)
 
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2aj8ug)
+- [With jetpack compose around the corner, is it possible to ditch fragments completely and have one activity that manages multiple composables without the need of fragments or other activities.](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29fp2x)
 
-
-- What are the best ways to manage a state for Jetpack compose? And should that state only be for that only composable function or whole visible screen?
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28u2fy)
-
-- With jetpack compose around the corner, is it possible to ditch fragments completely and have one activity that manages multiple composables without the need of fragments or other activities. | Asked by https://www.reddit.com/user/CraZy_LegenD/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29fp2x)
-
-- What should be the directory structure for Jetpack compose functions? Specifically for MVVM approach? | Asked by https://www.reddit.com/user/chavanshashank/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vs4t)
+- [What should be the directory structure for Jetpack compose functions? Specifically for MVVM approach?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vs4t)
 
 
-- Are there plans to move other libraries (ViewPager, SwipeRefreshLayout, etc.) to Compose when it's released? | Asked by https://www.reddit.com/user/Namnodorel/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vyap)
+- [Are there plans to move other libraries (ViewPager, SwipeRefreshLayout, etc.) to Compose when it's released?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vyap)
 
 
-- With compose I see a bright future without fragments (I know they are being fixed, but still), without activity recreation on config change (so no Android viewmodels either) and much more. I think this will allow having code that is simpler and more platform agnostic and that ditches most lifecycle gotchas. This also plays well with kotlin and compose multi platform... My question is, will you support this approach straight away, or will you support the fragment+viewmodel way only, and the other approach will be on the hands of the community? | Asked by https://www.reddit.com/user/lotdrops/
+- [With compose I see a bright future without fragments (I know they are being fixed, but still), without activity recreation on config change (so no Android viewmodels either) and much more. I think this will allow having code that is simpler and more platform agnostic and that ditches most lifecycle gotchas. This also plays well with kotlin and compose multi platform... My question is, will you support this approach straight away, or will you support the fragment+viewmodel way only, and the other approach will be on the hands of the community?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2b3lu5)
 
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2b3lu5)
+- [Can Jetpack compose interoperate with libraries like MPAndroidChart (with no changes to the library)? ex: using chart from the lib in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2a74ej)
 
-- Can Jetpack compose interoperate with libraries like MPAndroidChart (with no changes to the library)? ex: using chart from the lib in Jetpack Compose | Asked by https://www.reddit.com/user/nerdy_adventurer/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2a74ej)
-
-- These days many apps have settled on Activity/Fragment as View, ViewModel, and Repository. With Compose, are ViewModels still relevant for state management? | Asked by https://www.reddit.com/user/sonorangoose/
-
-    - [Answer](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2azmy2) 
+- [These days many apps have settled on Activity/Fragment as View, ViewModel, and Repository. With Compose, are ViewModels still relevant for state management?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2azmy2) 
 
 
 ## :memo: Contributing
