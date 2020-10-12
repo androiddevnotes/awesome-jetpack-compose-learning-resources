@@ -300,15 +300,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [droidcon](https://www.droidcon.com)
 
-- https://www.droidcon.com/media-detail?video=353079951
-
-    - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android ​
+- [Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://www.droidcon.com/media-detail?video=353079951)
 
 ### [Android Makers](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
-- https://www.youtube.com/watch?v=qoE34lpyo_Q
-
-    - Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN
+- [Let's build Android UI with Jetpack Compose by Alex Zhukovich, Takeaway.com EN](https://www.youtube.com/watch?v=qoE34lpyo_Q)
 
 <br>
 
@@ -319,9 +315,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [JetBrains TV](https://www.youtube.com/user/JetBrainsTV)
 
-- https://www.youtube.com/watch?v=I5zRmCheVVg
-
-    - Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019
+- [Jetpack Compose - Next Gen Kotlin UI Toolkit for Android - Bengaluru, June 22, 2019](https://www.youtube.com/watch?v=I5zRmCheVVg)
 
 <br>
 
@@ -332,9 +326,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [DutchAUG](https://www.youtube.com/channel/UC4qbsTjxkQOsCf2ymYY85_g)
 
-- https://www.youtube.com/watch?v=Z7Qs9XYGyCM
-
-    - All about Jetpack Compose
+- All about Jetpack Compose(https://www.youtube.com/watch?v=Z7Qs9XYGyCM)
 
 <br>
 
@@ -345,9 +337,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
-- https://www.youtube.com/watch?v=JcZqtBy9MT8
-
-    - Google I/O'19 - Chet Haase Interview on Jetpack Compose
+- [Google I/O'19 - Chet Haase Interview on Jetpack Compose](https://www.youtube.com/watch?v=JcZqtBy9MT8)
 
 <br>
 
@@ -358,9 +348,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Wajahat Karim](https://www.youtube.com/channel/UCV1ga_tJD-MMs7cTApKDwYQ)
 
-- https://www.youtube.com/watch?v=iJYCL1BlTkM
-
-    - Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020
+- [Codelab - Art of Jetpack Compose - Wajahat Karim - 360|AnDev 2020](https://www.youtube.com/watch?v=iJYCL1BlTkM)
 
 <br>
 
@@ -371,9 +359,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [raywenderlich.com](https://www.youtube.com/channel/UCz3cM4qLljXcQ8oWjMPgKZA) 
 
-- https://www.youtube.com/watch?v=3VMMOFoSOZg
-
-    - Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9
+- [Romain Guy - Android Q, UX and Jetpack Compose - Ray Wenderlich Podcast - S9, E9](https://www.youtube.com/watch?v=3VMMOFoSOZg)
 
 <br>
 
@@ -384,9 +370,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [AlexZh Dev](https://www.youtube.com/channel/UCGaWGZ23II5am251vQCEt_Q)
 
-- https://www.youtube.com/watch?v=vKaqd4gXsIk
-
-    - Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)
+- [Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)](https://www.youtube.com/watch?v=vKaqd4gXsIk)
 
 <br>
 
@@ -399,9 +383,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
 
-- https://www.youtube.com/watch?v=JQW1Ykzhfes&list=PLygXnm_B3n4wUW_rIdk62mpSd68XPvBG8
-
-    - Morning Minimise - Live Streams: Jetpack Compose Playlist on YouTube by hitherejoe_dev
+- [Morning Minimise - Live Streams: Jetpack Compose Playlist on YouTube by hitherejoe_dev](https://www.youtube.com/watch?v=JQW1Ykzhfes&list=PLygXnm_B3n4wUW_rIdk62mpSd68XPvBG8)
 
 <br>
 
@@ -412,9 +394,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
 
-- https://www.youtube.com/watch?v=JdTtRkT03gY
-
-    - Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI
+- [Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI](https://www.youtube.com/watch?v=JdTtRkT03gY)
 
 <br>
 
@@ -425,11 +405,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Kotlin London](https://www.youtube.com/channel/UCv4-wxKsrlwh83KShW5QPwA)
 
-- https://www.youtube.com/watch?v=MQcfIj4gPWs
-
-    - Daniel Montoya Ramos  - Android Jetpack Compose
-
-    - Daniel will show a new way of building UI's in Android using Jetpack Compose, comparing Imperative vs Declarative approaches. He'll look at managing state changes and composing functions.
+- [Daniel Montoya Ramos  - Android Jetpack Compose](https://www.youtube.com/watch?v=MQcfIj4gPWs) - Daniel will show a new way of building UI's in Android using Jetpack Compose, comparing Imperative vs Declarative approaches. He'll look at managing state changes and composing functions.
 
 <br>
 
@@ -440,8 +416,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Yet Another Dev](https://www.youtube.com/channel/UCWg_fMIBrLDUf2Z5wMh_6rw/)
 
-- https://www.youtube.com/playlist?list=PLAVsCyDh6fYcfgZAkdp6SLMex1TVWpEFQ
-    - Jetpack compose for beginners playlist
+- [Jetpack compose for beginners playlist](https://www.youtube.com/playlist?list=PLAVsCyDh6fYcfgZAkdp6SLMex1TVWpEFQ)
 
 <br>
 
@@ -452,10 +427,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [Leland Richardson](https://www.youtube.com/channel/UC12QSFbBDrf-yrGrXspdV3A)
 
-- https://www.youtube.com/playlist?list=PLcgGtmZOsTwFMT0dt2qA7pL__QN3kvsnC
-    - Jetpack Compose playlist from Leland Richardson.
-    - Leland Richardson is a Software Engineer at Google working on the Android UI Toolkit. In particular, Leland has been working on the compiler, runtime, and design of <b>Jetpack Compose</b>.
-    - The playlist may not be updated, please check the channel for more videos in the series.
+- [Jetpack Compose playlist from Leland Richardson.](https://www.youtube.com/playlist?list=PLcgGtmZOsTwFMT0dt2qA7pL__QN3kvsnC)
 
 <br>    
 
@@ -465,11 +437,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### [All Techies](https://www.youtube.com/c/AllTechies)
 
-- https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb
-    - Jetpack Compose beginners playlist from All Techies.
-    - Pankaj Rai (aka All Techies) is a Firebase GDE.
-    - The playlist contains videos on using jetpack compose with Firebase, MLKit, CameraX etc.
-    - The playlist may not be updated, please check the channel for more videos in the series.
+- [Jetpack Compose beginners playlist from All Techies.](https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb)
 
 <br>    
 
@@ -493,24 +461,16 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Books
 
-- https://joebirch.co/exploring-jetpack-compose/ [NOT PUBLISHED YET]
-
-    - EXPLORING JETPACK COMPOSE
-
-    - I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
+- [EXPLORING JETPACK COMPOSE](https://joebirch.co/exploring-jetpack-compose/) by Joe Birch [NOT PUBLISHED YET] - I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
 
 
 ## Open-Source Projects
 
 ### Apps
 
-- https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
+- [👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 
-    - 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.
-
-- https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
-
-    - Use the advanced search on GitHub and find open-source projects to your liking.
+- [Use the advanced search on GitHub and find open-source projects to your liking.](https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github)
 
 ### Libraries
 
