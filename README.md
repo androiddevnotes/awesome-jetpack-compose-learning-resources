@@ -24,41 +24,41 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Contents
 
-- [Docs, Codelabs, and Official Projects](https://github.com/androiddevnotes/learn-jetpack-compose-android#docs-codelabs-and-official-projects)  
+- [Docs, Codelabs, and Official Projects](#docs-codelabs-and-official-projects)  
 
-    - [Docs](https://github.com/androiddevnotes/learn-jetpack-compose-android#docs)
-    - [Codelabs](https://github.com/androiddevnotes/learn-jetpack-compose-android#codelabs)
-    - [Official Projects](https://github.com/androiddevnotes/learn-jetpack-compose-android#official-projects)
+    - [Docs](#docs)
+    - [Codelabs](#codelabs)
+    - [Official Projects](#official-projects)
 
-- [Articles and Tutorials](https://github.com/androiddevnotes/learn-jetpack-compose-android#articles-and-tutorials)
+- [Articles and Tutorials](#articles-and-tutorials)
 
-- [Slides](https://github.com/androiddevnotes/learn-jetpack-compose-android#slides)
+- [Slides](#slides)
 
-- [Talks, Conferences, and Interviews](https://github.com/androiddevnotes/learn-jetpack-compose-android#talks-conferences-and-interviews)
+- [Talks, Conferences, and Interviews](#talks-conferences-and-interviews)
 
-- [Videos](https://github.com/androiddevnotes/learn-jetpack-compose-android#videos)
+- [Videos](#videos)
 
-- [Twitch Channels](https://github.com/androiddevnotes/learn-jetpack-compose-android#twitch-channels)
+- [Twitch Channels](#twitch-channels)
 
-- [Books](https://github.com/androiddevnotes/learn-jetpack-compose-android#books)
+- [Books](#books)
 
-- [Open-Source Projects](https://github.com/androiddevnotes/learn-jetpack-compose-android#open-source-projects)
+- [Open-Source Projects](#open-source-projects)
 
-    - [Apps](https://github.com/androiddevnotes/learn-jetpack-compose-android#apps)
-    - [Libraries](https://github.com/androiddevnotes/learn-jetpack-compose-android#libraries)
-    - [Resources](https://github.com/androiddevnotes/learn-jetpack-compose-android#resources)
+    - [Apps](#apps)
+    - [Libraries](#libraries)
+    - [Resources](#resources)
 
-- [Twitter Threads](https://github.com/androiddevnotes/learn-jetpack-compose-android#twitter-threads)
+- [Twitter Threads](#twitter-threads)
 
-- [Podcasts](https://github.com/androiddevnotes/learn-jetpack-compose-android#podcasts)
+- [Podcasts](#podcasts)
 
-- [Frequently Asked Questions on Jetpack Compose](https://github.com/androiddevnotes/learn-jetpack-compose-android#faq-on-jetpack-compose)
+- [Frequently Asked Questions on Jetpack Compose](#faq-on-jetpack-compose)
 
-- [Communities](https://github.com/androiddevnotes/learn-jetpack-compose-android#communities)
+- [Communities](#communities)
 
-:memo: [**Contributing**](https://github.com/androiddevnotes/learn-jetpack-compose-android#memo-contributing)
+:memo: [**Contributing**](#memo-contributing)
 
-:seedling: [**Contributors**](https://github.com/androiddevnotes/learn-jetpack-compose-android#seedling-contributors)
+:seedling: [**Contributors**](#seedling-contributors)
 
 
 ## Docs, Codelabs and Official Projects
