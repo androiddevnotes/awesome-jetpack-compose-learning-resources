@@ -54,8 +54,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Frequently Asked Questions on Jetpack Compose](https://github.com/androiddevnotes/learn-jetpack-compose-android#faq-on-jetpack-compose)
 
-- [Discussions](https://github.com/androiddevnotes/learn-jetpack-compose-android#discussions)
-
 - [Communities](https://github.com/androiddevnotes/learn-jetpack-compose-android#communities)
 
 :memo: [**Contributing**](https://github.com/androiddevnotes/learn-jetpack-compose-android#memo-contributing)
@@ -67,17 +65,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
-- https://developer.android.com/courses/pathways/compose
+- [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
-    - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
-
-- https://developer.android.com/jetpack/compose
-
-    - Jetpack Compose project page.
-
-- https://developer.android.com/jetpack/compose/documentation
-
-    - Get started with Jetpack Compose
+- [Jetpack Compose project page](https://developer.android.com/jetpack/compose)
 
 ### Codelabs
 
@@ -518,93 +508,57 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Podcasts
 
-- http://androidbackstage.blogspot.com/2020/08/episode-147-jetpack-compose-alpha.html
+- [Episode 147: Jetpack Compose Alpha by Android Developers Backstage](http://androidbackstage.blogspot.com/2020/08/episode-147-jetpack-compose-alpha.html) 
 
-    - Episode 147: Jetpack Compose Alpha by Android Developers Backstage
+- [Jetpack Compose with Denis Buketa – Podcast S10 E13](https://www.raywenderlich.com/13267837-jetpack-compose-with-denis-buketa-podcast-s10-e13)
 
-- https://www.raywenderlich.com/13267837-jetpack-compose-with-denis-buketa-podcast-s10-e13
-
-    - Jetpack Compose with Denis Buketa – Podcast S10 E13
-
-- https://www.raywenderlich.com/4809247-romain-guy-podcast-s09-e09
-
-    - Romain Guy – Podcast S09 E09
+- [Romain Guy – Podcast S09 E09](https://www.raywenderlich.com/4809247-romain-guy-podcast-s09-e09)
 
 ## Twitter Threads
 
-- https://twitter.com/vinaygaba/status/1303030745011687426
+- [Learn more about the core concepts of #JetpackCompose right from your Twitter feed! My goal is to create easy-to-consume but useful content that does not take up too much of your time.](https://twitter.com/vinaygaba/status/1303030745011687426) - by [Vinay Gaba](https://twitter.com/vinaygaba)
 
-    - by [Vinay Gaba](https://twitter.com/vinaygaba)
+- [On #JetpackCompose Alpha day, I want to share a story about Architecture in Compose. When we open sourced Compose at I/O 2019, one of the most common questions from many Android developers was “What does this mean for the architecture of our apps?”](https://twitter.com/objcode/status/1298740410584457216) - by [Sean McQuillan](https://twitter.com/objcode)
 
-    - Learn more about the core concepts of #JetpackCompose right from your Twitter feed! My goal is to create easy-to-consume but useful content that does not take up too much of your time. 
-
-- https://twitter.com/objcode/status/1298740410584457216
-
-    - by [Sean McQuillan](https://twitter.com/objcode)
-
-    - On #JetpackCompose Alpha day, I want to share a story about Architecture in Compose. When we open sourced Compose at I/O 2019, one of the most common questions from many Android developers was “What does this mean for the architecture of our apps?”
-
-- https://twitter.com/intelligibabble/status/1299020334826283009
-
-    - by [Leland Richardson](https://twitter.com/intelligibabble)
-
-    - Seeing a lot of confusion around Compose and SwiftUI. A few clarifying facts.
-
-
-## Discussions
-
-- https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/
-
+- [Seeing a lot of confusion around Compose and SwiftUI. A few clarifying facts.](https://twitter.com/intelligibabble/status/1299020334826283009) - by [Leland Richardson](https://twitter.com/intelligibabble)
 
 ## Communities
 
-- https://stackoverflow.com/questions/tagged/android-jetpack-compose
+- [StackOverflow android-jetpack-compose](https://stackoverflow.com/questions/tagged/android-jetpack-compose)
 
-- https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
+- [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)
 
-- https://www.reddit.com/r/JetpackCompose/
+- [r/JetpackCompose](https://www.reddit.com/r/JetpackCompose/)
 
 
 ## FAQ on Jetpack Compose
 
-- https://jetpackcompose.app/faq
+- [Find answers to frequently asked questions about Jetpack Compose!](https://jetpackcompose.app/faq)
 
-- https://github.com/Mishkun/jetpack-compose-faq
+- [Jetpack Compose Frequently Asked Questions](https://github.com/Mishkun/jetpack-compose-faq)
 
-- Checkout [#Twitter-Threads](https://github.com/androiddevnotes/learn-jetpack-compose-android#twitter-threads)
-
-- https://stackoverflow.com/questions/58558163/how-does-jetpack-compose-work-under-the-hood
-
-- Below FAQs are curated and taken from AMA done by Android Eng Team https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/
+- [Below FAQs are curated and taken from AMA done by Android Eng Team](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/)
 
 - [Do you have a navigation solution in your minds for Compose? Do we have to use fragments for NavComponent?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28qg5p) 
 
 - [Will the lifecycle of Compose continue be like fragments(hell)or it will be simplified? We had several issues with fragments on our team but I have never heard any lifecycle issue from our iOS team with ViewControllers for years](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29379k)
 
-
 - [From someone who hasn't started using Compose, but plans on doing so until the end of the year: What are the worst use cases for the transition? As someone who relies on custom widgets, does Compose allow for the same level of customization (measure/layout, draw, touch, animation, accessibility, states)?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29paiu)
-    
 
 - [Does jetpack compose perform better than XML? when editing complex layouts on XML my low spec laptop struggles a lot.](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2anoyc)
-
 
 - [How binary compatibility would be handled? If new kotlin version comes out and kotlin compiler changes extension plugin API or if Compose starts to generate different bytecode, would Compose-based libraries my app uses work OK if each of them depends on different compiler version?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g29k7f0)
 
 
 - [How will compose mix with Dagger/Hilt? Since we can get a view model inside a compose, how does injection goes into the constructor? Would saved instance state become obsolete? Would saved state handle become obsolete too?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2ylseu)
 
-
 - [Given the supposedly equal treatment for all Android languages, what is the Compose story for Java and C++ developers?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2kugzx)
-
 
 - [Will you port ConstraintLayout/MotionLayout in Compose?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g297x0u)
 
-
 - [Is Jetpack Compose going to replace few existing components completely? Or they will coexist together like Fragments, Recyclerview etc](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28siic)
 
-
 - [How do I wrap my head around the concept of Ambients?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2aj8ug)
-
 
 - [What are the best ways to manage a state for Jetpack compose? And should that state only be for that only composable function or whole visible screen?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28u2fy)
 
@@ -612,9 +566,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [What should be the directory structure for Jetpack compose functions? Specifically for MVVM approach?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vs4t)
 
-
 - [Are there plans to move other libraries (ViewPager, SwipeRefreshLayout, etc.) to Compose when it's released?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g28vyap)
-
 
 - [With compose I see a bright future without fragments (I know they are being fixed, but still), without activity recreation on config change (so no Android viewmodels either) and much more. I think this will allow having code that is simpler and more platform agnostic and that ditches most lifecycle gotchas. This also plays well with kotlin and compose multi platform... My question is, will you support this approach straight away, or will you support the fragment+viewmodel way only, and the other approach will be on the hands of the community?](https://www.reddit.com/r/androiddev/comments/idefss/were_on_the_engineering_team_for_android_jetpack/g2b3lu5)
 
