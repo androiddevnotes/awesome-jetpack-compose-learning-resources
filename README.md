@@ -214,12 +214,6 @@
 
 ### MVI
 
-- https://github.com/toggl/android
-
-    - This is the codebase of the Toggl app for Android.
-
-    - Tech Stack = Dagger Hilt, Testing, Coroutines, Retrofit, Room, WorkManager, Navigation, Arrow, Browser, LiveData, ViewModel, Compose
-
 - https://github.com/vipulasri/JetDelivery
 
     - JetDelivery is a sample food delivery app, built with Jetpack Compose
