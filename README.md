@@ -212,6 +212,10 @@
     
     - Tech Stack - Coroutines, Retrofit, Accompanist, ViewModel, Compose
 
+- https://github.com/yashovardhan99/ComposeNotes/
+    - Compose Notes is a simple notes app built with Jetpack Compose.
+    - Tech Stack = Coroutines, Testing, Room, Hilt, ViewModel, Lifecycle components, Compose
+    
 - https://github.com/lionuncle/teamscope
 
     - Teamscope is a form building and filling application built with Jetpack Compose.
