@@ -216,6 +216,12 @@
     - Compose Notes is a simple notes app built with Jetpack Compose.
     - Tech Stack = Coroutines, Testing, Room, Hilt, ViewModel, Lifecycle components, Compose
     
+- https://github.com/lionuncle/teamscope
+
+    - Teamscope is a form building and filling application built with Jetpack Compose.
+    
+    - Tech Stack - MVVM, Navigation, Firebase, ViewModel, Compose
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
