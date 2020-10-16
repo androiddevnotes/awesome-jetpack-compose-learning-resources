@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/33?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/35?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -40,11 +40,17 @@
 
 ### MVVM
 
+- https://github.com/iambaljeet/GitReposCompose
+
+    - GitReposCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android. This demo app uses Github public API for fetching public repositories.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Accompanist, LiveData, ViewModel, Compose
+
 - https://github.com/jeremyrempel/yahnapp
 
     - Yet another Hacker News App is an Android app built using Jetpack Compose. Focus is on privacy, simplicity and performance. 
 
-    - Coroutines, JSoup, kotlinx.serialization, Ktor, ViewModel, Compose
+    - Tech Stack = Coroutines, JSoup, kotlinx.serialization, Ktor, ViewModel, Compose
 
 - https://github.com/skydoves/DisneyCompose
 
