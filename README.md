@@ -94,7 +94,7 @@
 
     - Hacker Newsreader for Android, written in Compose
 
-    - Tech Stack = Dagger, Testing, Coroutines, Retrofit, JSoup, Assisted Inject, StateFlow, ViewModel, Compose
+    - Tech Stack = Dagger, Testing, Coroutines, Retrofit, JSoup, Assisted Inject, ViewModel, Compose
 
 - https://github.com/AlexZhukovich/CoffeeDrinksWithJetpackCompose
 
