@@ -52,6 +52,7 @@
 
     - Tech Stack = Coroutines, JSoup, kotlinx.serialization, Ktor, ViewModel, Compose
 
+
 - https://github.com/skydoves/DisneyCompose
 
     - 🧸 A demo Disney app using Jetpack Compose and Dagger-Hilt based on modern Android tech-stacks and MVVM architecture.
@@ -83,13 +84,6 @@
 
     - Tech Stack = Coroutines, Firestore, Accompanist, LiveData, ViewModel, Compose
 
-- https://github.com/iambaljeet/TwitterCompose
-
-    - TwitterCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android.
-
-    - Tech Stack = Accompanist, Compose
-
-
 - https://github.com/stackinflow/AndroidAppTemplate
 
     - All must have libraries in the android app are available here. you can get started with directly writing features with this.
@@ -108,36 +102,17 @@
 
     - Tech Stack = Koin, Coroutines, ViewModel, Compose
 
-- https://github.com/andkulikov/compose-photoapp
-
-    - A simple demo project to showcase the possibilities of Jetpack Compose
-
-    - Tech Stack = Compose
-
 - https://github.com/romainguy/sample-materials-shop
     
     - Sample app for Jetpack Compose
     
     - Tech Stack = Coroutines, Room, Filament, LiveData, ViewModel, Compose
 
-- https://github.com/zsoltk/compose-pokedex
-
-    - Pokedex on Jetpack Compose. Single-Activity, no Fragments.
-
-    - Tech Stack = RxJava, LiveData, Compose
-
-- https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone
-
-    - An example project to demonstrate how to build WhatsApp UI using Jetpack Compose.
-
-    - Tech Stack = Compose
-
 - https://github.com/tylerbwong/stack/
 
     - An Android app for browsing Stack Overflow and other Stack Exchange sites.
 
     - Tech Stack = Dagger Hilt, Testing, Coroutines, Retrofit, Room, WorkManager, Browser, insetter, markwon, klock, chucker, Data Binding, LiveData, ViewModel, Compose
-
 
 - https://github.com/jitinsharma/android-conferences
 
@@ -209,8 +184,7 @@
 
     - News App built with JetPack Compose
 
-    - Tech Stack = Jetpack Compose, Dagger-Hilt, Lifecycle Components, Kotlin Coroutines,
-    Retrofit, Moshi, Accompanist
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, LiveData, ViewModel, Accompanist, Compose
 
 - https://github.com/QArtur99/Compose-ShoppingList
 
@@ -269,6 +243,36 @@
     
     - Tech Stack = Kotlin, Compose
 
+
+- https://github.com/Hessam-Emami/SnappCompose
+
+    - A clone of Snapp, A ride-handling app using Jetpack Compose, Showcasing various usages of Google Maps, Animations, etc combined with Compose
+
+    - Tech Stack = Google Maps, Compose
+
+- https://github.com/zsoltk/compose-pokedex
+
+    - Pokedex on Jetpack Compose. Single-Activity, no Fragments.
+
+    - Tech Stack = RxJava, LiveData, Compose
+
+- https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone
+
+    - An example project to demonstrate how to build WhatsApp UI using Jetpack Compose.
+
+    - Tech Stack = Compose
+
+- https://github.com/iambaljeet/TwitterCompose
+
+    - TwitterCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android.
+
+    - Tech Stack = Accompanist, Compose
+
+- https://github.com/andkulikov/compose-photoapp
+
+    - A simple demo project to showcase the possibilities of Jetpack Compose
+
+    - Tech Stack = Compose
     
 ## :books: Tech Stack/Libraries
 
