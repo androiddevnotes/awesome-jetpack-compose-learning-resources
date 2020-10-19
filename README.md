@@ -121,16 +121,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
 
-- [Compose ❤️ Dino: Building Chrome’s T-Rex Game in Jetpack Compose - Kotlin Mumbai](https://speakerdeck.com/wajahatkarim3/compose-dino-building-chromes-t-rex-game-in-jetpack-compose-kotlin-mumbai) [September 26, 2020]
-
-<br>
-
-<p align="center">
-<img src="assets/Building_T-Rex_game_in_Jetpack_Compose__Slides_page-0001.jpg" alt="Compose ❤️ Dino: Building Chrome’s T-Rex Game in Jetpack Compose - Kotlin Mumba"></img>
-</p>
-
-<br>
-
 - [360|AnDev 2020: Learning Jetpack Compose By Example](https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example) [July 23, 2020]
 
 <br>
