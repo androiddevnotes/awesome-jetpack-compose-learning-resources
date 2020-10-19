@@ -1,5 +1,5 @@
 
-<h1 align="center">Learn Jetpack Compose Android</h1></br>
+<h1 align="center">Awesome Jetpack Compose Learning Resources</h1></br>
 
 <p align="center">
 :eyeglasses: A continuously updated list of learning Jetpack Compose for Android apps.
@@ -18,7 +18,7 @@
 <img width="320px" src="assets/jetpack_compose_androiddevnotes.png" alt="jetpack compose androiddevnotes logo"></img>
 </p><br>
 
-**Learn Jetpack Compose Android** aims to be your starting point to find the finest learning content for Jetpack Compose suites of libraries.
+**Awesome Jetpack Compose Learning Resources** aims to be your starting point to find the finest learning content for Jetpack Compose suites of libraries.
 
 Content in languages other than English is tagged according to ISO 639-2 codes.
 
@@ -120,6 +120,16 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 ## Slides
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
+
+- [Compose ❤️ Dino: Building Chrome’s T-Rex Game in Jetpack Compose - Kotlin Mumbai](https://speakerdeck.com/wajahatkarim3/compose-dino-building-chromes-t-rex-game-in-jetpack-compose-kotlin-mumbai) [September 26, 2020]
+
+<br>
+
+<p align="center">
+<img src="assets/Building_T-Rex_game_in_Jetpack_Compose__Slides_page-0001.jpg" alt="Compose ❤️ Dino: Building Chrome’s T-Rex Game in Jetpack Compose - Kotlin Mumba"></img>
+</p>
+
+<br>
 
 - [360|AnDev 2020: Learning Jetpack Compose By Example](https://speakerdeck.com/vinaygaba/360-andev-2020-learning-jetpack-compose-by-example) [July 23, 2020]
 
