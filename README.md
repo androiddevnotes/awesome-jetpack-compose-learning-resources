@@ -504,6 +504,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
 
+- https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
+
+    - Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
+
 - https://github.com/hitherejoe/ComposeAcademy-Playground
 
     - Compose Academy Playground is a free resource that provides snippets and practical samples on how to use Jetpack Compose for the Android platform.
