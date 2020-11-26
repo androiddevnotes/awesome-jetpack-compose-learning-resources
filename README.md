@@ -121,6 +121,16 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
 
+- [Migrating Your Design System to Jetpack Compose](https://speakerdeck.com/ditn/migrating-your-design-system-to-jetpack-compose) [November 25, 2020]
+
+<br>
+
+<p align="center">
+<img src="assets/Migrating_Design_System_to_Jetpack_Compose_page-0001.jpg" alt="Migrating Your Design System to Jetpack Compose"></img>
+</p>
+
+<br>
+
 - [Compose ❤️ Dino: Building Chrome’s T-Rex Game in Jetpack Compose - Kotlin Mumbai](https://speakerdeck.com/wajahatkarim3/compose-dino-building-chromes-t-rex-game-in-jetpack-compose-kotlin-mumbai) [September 26, 2020]
 
 <br>
