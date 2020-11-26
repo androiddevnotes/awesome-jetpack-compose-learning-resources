@@ -445,6 +445,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+- [Compose Compiler playlist from Leland Richardson.](https://www.youtube.com/watch?v=bg0R9-AUXQM&list=PLcgGtmZOsTwG6LqPut_BxX6w9DRr2unU6)
+
+<br>    
+
+[![Stable Inference - Compose Compiler - Ep 01](http://img.youtube.com/vi/bg0R9-AUXQM/0.jpg)](https://www.youtube.com/watch?v=bg0R9-AUXQM&list=PLcgGtmZOsTwG6LqPut_BxX6w9DRr2unU6 "Stable Inference - Compose Compiler - Ep 01")
+
+<br>
+
 ### [All Techies](https://www.youtube.com/c/AllTechies)
 
 - [Jetpack Compose beginners playlist from All Techies.](https://www.youtube.com/playlist?list=PL6sljRl1auGjrkUB-Sq2NNSo9l1LQ20xb)
