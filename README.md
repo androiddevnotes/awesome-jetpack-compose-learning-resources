@@ -521,6 +521,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
 
     - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
+    
+
+- https://github.com/Gurupreet/ComposeCookBook
+
+    - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 
 - https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
 
