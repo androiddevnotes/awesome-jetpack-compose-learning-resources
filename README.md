@@ -567,6 +567,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [r/JetpackCompose](https://www.reddit.com/r/JetpackCompose/)
 
+- [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot)
+
 
 ## FAQ on Jetpack Compose
 
