@@ -121,6 +121,16 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
 
+- [Composables under the hood](https://speakerdeck.com/tkuenneth/composables-under-the-hood) [January 24, 2021]
+
+<br>
+
+<p align="center">
+<img src="assets/Composables_under_the_hood_page-0001.jpg" alt="Composables under the hood"></img>
+</p>
+
+<br>
+
 - [Migrating Your Design System to Jetpack Compose](https://speakerdeck.com/ditn/migrating-your-design-system-to-jetpack-compose) [November 25, 2020]
 
 <br>
