@@ -117,6 +117,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started) - In this Jetpack Compose tutorial, you’ll learn to use the new declarative UI framework being developed by the Android team by creating a cookbook app.
 
+- [Testing cheatsheet  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/testing-cheatsheet)
+
+![](https://developer.android.com/images/jetpack/compose/compose-testing-cheatsheet.png)
+
 ## Slides
 
 ### Note: Find more Slides at https://cse.google.com/cse?cx=010150859881542981030%3Ahqhxyxpwtc4&ie=UTF-8&q=jetpack+compose&sa=Search
