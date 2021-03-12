@@ -65,6 +65,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Docs
 
+- [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
+
 - [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose) - Learn about Compose, a modern toolkit for building native Android UI. Test your knowledge of Compose and earn your Jetpack Compose badge.
 
 - [Jetpack Compose project page](https://developer.android.com/jetpack/compose)
