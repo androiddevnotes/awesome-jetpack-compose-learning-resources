@@ -29,6 +29,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
     - [Docs](#docs)
     - [Codelabs](#codelabs)
     - [Official Projects](#official-projects)
+    - [Resources](#resources)
 
 - [Articles and Tutorials](#articles-and-tutorials)
 
@@ -42,11 +43,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Books](#books)
 
-- [Open-Source Projects](#open-source-projects)
-
-    - [Apps](#apps)
-    - [Libraries](#libraries)
-    - [Resources](#resources)
+- [Apps](#apps)
 
 - [Twitter Threads](#twitter-threads)
 
@@ -96,6 +93,34 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - https://issuetracker.google.com/issues/new?component=612128 - Create new issue for Jetpack Compose Android.
 
 - https://github.com/android/compose-samples - Official Jetpack Compose Samples
+
+### Resources
+
+- https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
+
+    - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
+    
+
+- https://github.com/Gurupreet/ComposeCookBook
+
+    - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+
+- https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
+
+    - Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
+
+- https://github.com/hitherejoe/ComposeAcademy-Playground
+
+    - Compose Academy Playground is a free resource that provides snippets and practical samples on how to use Jetpack Compose for the Android platform.
+
+- https://github.com/Foso/Jetpack-Compose-Playground
+
+    - Collection of Jetpack Compose example code and tutorials 
+
+- https://github.com/Naveentp/Awesome-Jetpack-Compose
+
+    - A collaborative list of awesome jetpack compose resources.
+
 
 ## Articles and Tutorials
 
@@ -498,68 +523,17 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [EXPLORING JETPACK COMPOSE](https://joebirch.co/exploring-jetpack-compose/) by Joe Birch [NOT PUBLISHED YET] - I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
 
 
-## Open-Source Projects
-
 ### Apps
 
 - [👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
 
 - [Use the advanced search on GitHub and find open-source projects to your liking.](https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github)
 
-### Libraries
-
-- https://github.com/skydoves/Orchestra
-
-    - 🎺 Orchestra is a collection of Android custom view compatible libraries for Jetpack Compose.
-
-- https://github.com/skydoves/Landscapist
-
-    - 🍂 Jetpack Compose image loading library for requesting and displaying images using Glide, Fresco.
-
-- https://github.com/wasabeef/composable-images
-
-    - The Composable Images is a library providing Jetpack Compose wrapper for Glide, Picasso, and Coil.
-
-- https://github.com/pocmo/recompose
-
-    - recompose is a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
-
-- https://github.com/chrisbanes/accompanist
-
-    - A collection of extension libraries for Jetpack Compose.
-
-- https://github.com/airbnb/Showkase
-
-    - 🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements.
-
-### Resources
-
-- https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
-
-    - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way.
-    
-
-- https://github.com/Gurupreet/ComposeCookBook
-
-    - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
-
-- https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples
-
-    - Learn Jetpack Compose for Android by Examples. Learn how to use Jetpack Compose for Android App Development. Android’s modern toolkit for building native UI.
-
-- https://github.com/hitherejoe/ComposeAcademy-Playground
-
-    - Compose Academy Playground is a free resource that provides snippets and practical samples on how to use Jetpack Compose for the Android platform.
-
-- https://github.com/Foso/Jetpack-Compose-Playground
-
-    - Collection of Jetpack Compose example code and tutorials 
-
-- https://github.com/Naveentp/Awesome-Jetpack-Compose
-
-    - A collaborative list of awesome jetpack compose resources.
-
 ## Podcasts
+
+- [Compose for Desktop – Talking Kotlin](https://talkingkotlin.com/compose-for-desktop/)
+
+- [Jetpack Compose with Leland Richardson – Talking Kotlin](https://talkingkotlin.com/jetpack-compose-with-leland-richardson/)
 
 - [Episode 147: Jetpack Compose Alpha by Android Developers Backstage](http://androidbackstage.blogspot.com/2020/08/episode-147-jetpack-compose-alpha.html) 
 
