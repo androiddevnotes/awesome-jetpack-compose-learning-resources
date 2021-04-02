@@ -531,6 +531,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Podcasts
 
+- [Episode 158: Jetpack Compose... C'est bêta !](http://androidbackstage.blogspot.com/2021/03/episode-158-jetpack-compose-beta.html)
+
+- [Episode 131: Jetpack Compose and Declarative UIs](https://androidbackstage.blogspot.com/2020/01/episode-131-jetpack-compose-and.html)
+
+- [Episode 115: Jetpack Compose](https://androidbackstage.blogspot.com/2019/06/episode-115-jetpack-compose.html)
+
 - [Compose for Desktop – Talking Kotlin](https://talkingkotlin.com/compose-for-desktop/)
 
 - [Jetpack Compose with Leland Richardson – Talking Kotlin](https://talkingkotlin.com/jetpack-compose-with-leland-richardson/)
