@@ -70,6 +70,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Codelabs
 
+- [Compose Animation](https://developer.android.com/codelabs/jetpack-compose-animation#0) - In this codelab, you will learn how to use some Animation APIs in Jetpack Compose.
+
 - [Jetpack Compose basics](https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/index.html) - In this codelab, you will learn * What Compose is * How to build UIs with Compose * How to manage state in composable functions * Data flow principles in Compose.
 
 - [Migrating to Jetpack Compose](https://codelabs.developers.google.com/codelabs/jetpack-compose-migration/index.html) - In this codelab, you'll be migrating parts of the Sunflower's plant details screen to Compose. We created a copy of the project for you to try out migrating a realistic app to Compose.🏉
