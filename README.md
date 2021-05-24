@@ -70,6 +70,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Codelabs
 
+- [Testing in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-testing#0) - In this codelab you'll learn about testing UIs created with Jetpack Compose. You will write your first tests while learning about testing in isolation, debugging tests, semantics trees and synchronization.
+
+- [Jetpack Compose Navigation](https://developer.android.com/codelabs/jetpack-compose-navigation#0) - Use the Jetpack Navigation component to navigate between screens in Jetpack Compose.
+
 - [Compose Animation](https://developer.android.com/codelabs/jetpack-compose-animation#0) - In this codelab, you will learn how to use some Animation APIs in Jetpack Compose.
 
 - [Jetpack Compose basics](https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/index.html) - In this codelab, you will learn * What Compose is * How to build UIs with Compose * How to manage state in composable functions * Data flow principles in Compose.
