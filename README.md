@@ -127,6 +127,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - A collaborative list of awesome jetpack compose resources.
 
+- https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton
+
+    - SSJetPackComposeProgressButton is an elegant button with a different loading animations..🎉
+
 
 ## Articles and Tutorials
 
