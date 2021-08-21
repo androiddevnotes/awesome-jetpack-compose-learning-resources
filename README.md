@@ -131,6 +131,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - SSJetPackComposeProgressButton is an elegant button with a different loading animations..🎉
 
+- https://github.com/rawhasan/jetpack-compose-exercises
+    
+    - A collection of exercise projects in Jetpack Compose that shows how to do the usual things from the view word in the new way in Jetpack Compose. 
+
 
 ## Articles and Tutorials
 
