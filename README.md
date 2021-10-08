@@ -532,6 +532,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+### [Philipp Lackner](https://www.youtube.com/c/PhilippLackner)
+
+- [Android Jetpack Compose Tutorial From Scratch - Playlist from Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+
+<br>
+
+[![Philipp Lackner - Jetpack Compose Playlist](https://img.youtube.com/vi/cDabx3SjuOY/0.jpg)](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+
 
 ## Twitch Channels
 
