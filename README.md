@@ -86,6 +86,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Using State in Jetpack Compose](https://codelabs.developers.google.com/codelabs/jetpack-compose-state/index.html) - In this codelab you'll learn about the state and how it can be used and manipulated by Jetpack Compose.
 
+- [Accessibility in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-accessibility/index.html) - In this codelab you will learn how to use Jetpack Compose to improve your app's accessibility. We will walk through several common use cases and improve a sample app step by step. We will cover touch target sizes, content descriptions, click labels, and more.
+ 
+- [Advanced state and side effects in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-advanced-state-side-effects/index.html) - In this codelab you will learn advanced concepts related to State and Side Effects APIs in Jetpack Compose. We'll see how to create a state holder for stateful composables whose logic isn't trivial, how to create coroutines and call suspend functions from Compose code, and how to trigger side effects to accomplish different use cases.
+
 ### Official Projects
 
 - https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui - Git repository on Jetpack Compose.
