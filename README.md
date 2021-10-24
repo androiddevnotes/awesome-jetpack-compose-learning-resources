@@ -462,6 +462,17 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+### [Rivu Chakraborty](https://www.droidcon.com/2021/08/19/migrating-to-compose/)
+
+- Droidcon Online: [MIGRATING TO COMPOSE](https://www.youtube.com/watch?v=vKaqd4gXsIk)
+
+<br>
+
+[![Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)](https://i.imgur.com/gFve2Sd.png)](http://www.youtube.com/watch?v=vKaqd4gXsIk "Let’s build an Android UI with Jetpack Compose (Mobile Twente & JUG Lodz meetups)")
+
+
+<br>
+
 ## Videos
 
 ### [hitherejoe_dev](https://www.youtube.com/channel/UC_j07JXRR-yum2NihUavQeQ)
