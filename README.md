@@ -147,8 +147,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
     - An android library to highlight different features of the app built using Jetpack Compose.	
 
-
-
 ## Articles and Tutorials
 
 - [jetc.dev](https://jetc.dev/) - Jetpack Compose Resources + Newsletter.
