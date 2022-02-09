@@ -143,6 +143,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
   
     - A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌
 
+- https://github.com/canopas/Intro-showcase-view
+
+    - An android library to highlight different features of the app built using Jetpack Compose.	
+
+
 
 ## Articles and Tutorials
 
@@ -166,8 +171,13 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started) - In this Jetpack Compose tutorial, you’ll learn to use the new declarative UI framework being developed by the Android team by creating a cookbook app.
 
-- [Testing cheatsheet  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/testing-cheatsheet)
+- [Animations in Jetpack Compose with examples](https://blog.canopas.com/animations-in-jetpack-compose-with-examples-48307ba9dff1)
 
+- [Jetpack Compose: MVVM State management in a simple way](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554)
+
+- [Intro showcase view in Jetpack Compose — Android](https://blog.canopas.com/intro-showcase-view-in-jetpack-compose-ac044cd3bf28)
+
+- [Testing cheatsheet  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/testing-cheatsheet)
 ![](https://developer.android.com/images/jetpack/compose/compose-testing-cheatsheet.png)
 
 ## Slides
