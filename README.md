@@ -2,7 +2,7 @@
 <h1 align="center">Awesome Jetpack Compose Learning Resources</h1></br>
 
 <p align="center">
-:eyeglasses: A continuously updated list of learning Jetpack Compose for Android apps.
+:eyeglasses: A continuously updated list of learning Jetpack Compose for Android applications.
 </p>
 <br>
 
@@ -423,6 +423,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 [![All about Jetpack Compose](http://img.youtube.com/vi/Z7Qs9XYGyCM/0.jpg)](http://www.youtube.com/watch?v=Z7Qs9XYGyCM "All about Jetpack Compose")
 
+<br>
+[![State in Jetpack Compose For Beginners](https://www.youtube.com/watch?v=rght5trPc-8)]
 
 <br>
 
