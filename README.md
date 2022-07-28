@@ -553,6 +553,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 [![Philipp Lackner - Jetpack Compose Playlist](https://img.youtube.com/vi/cDabx3SjuOY/0.jpg)](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 
+<br>
+
+### [Alex Styl](https://www.youtube.com/alexstyl)
+
+- [Jetpack Compose Shorts](https://www.youtube.com/watch?v=0ucLMOve2to&list=PLsZcmDgCUmJ3Yds-g4S4rRd3ZUBShLdL6)
+
+[![Alex Styl - Jetpack Compose Playlist](https://i.ytimg.com/an_webp/8bc5ma-f0nQ/mqdefault_6s.webp?du=3000&sqp=CITM4JYG&rs=AOn4CLAC-HeuhGu-fLPwlBJEU7KaX9TPgA)](https://www.youtube.com/watch?v=0ucLMOve2to&list=PLsZcmDgCUmJ3Yds-g4S4rRd3ZUBShLdL6)
+
 ## Twitch Channels
 
 #### [EN]
@@ -570,6 +578,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [EXPLORING JETPACK COMPOSE](https://joebirch.co/exploring-jetpack-compose/) by Joe Birch [NOT PUBLISHED YET] - I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
 
+- [From View to Composable](https://viewtocomposable.com) by [Alex Styl](https://twitter.com/alexstyl) – Jetpack Compose is the future of Android UI. Wouldn't it be great if you did not have to spend hundreds of hours figuring out how to do things you already know the old-fashioned way? This book includes code examples and to-the-point explanations so that you do not have to.
 
 ### Apps
 
@@ -602,6 +611,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [On #JetpackCompose Alpha day, I want to share a story about Architecture in Compose. When we open sourced Compose at I/O 2019, one of the most common questions from many Android developers was “What does this mean for the architecture of our apps?”](https://twitter.com/objcode/status/1298740410584457216) - by [Sean McQuillan](https://twitter.com/objcode)
 
 - [Seeing a lot of confusion around Compose and SwiftUI. A few clarifying facts.](https://twitter.com/intelligibabble/status/1299020334826283009) - by [Leland Richardson](https://twitter.com/intelligibabble)
+
+- [Jetpack Compose can seem daunting after years of using Android Views. Let's speed up your learning of Compose using things you already know from Views.](https://twitter.com/alexstyl/status/1510910211682357248) - by [Alex Styl](https://twitter.com/alexstyl)
 
 ## Communities
 
