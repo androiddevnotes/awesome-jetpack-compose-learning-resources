@@ -499,6 +499,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <br>
 
+### [Canopas](https://www.youtube.com/channel/UC77VyeTVJ45HiUS_o2GNcBA)
+
+- [Jetpack compose - MVVM State management in a simple way](https://youtu.be/KTvP27FpXd0)
+
+<br>
+
 [![Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI](http://img.youtube.com/vi/JdTtRkT03gY/0.jpg)](http://www.youtube.com/watch?v=JdTtRkT03gY "Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI")
 
 
