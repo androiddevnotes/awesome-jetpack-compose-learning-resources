@@ -586,7 +586,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Books
 
-- [EXPLORING JETPACK COMPOSE](https://joebirch.co/exploring-jetpack-compose/) by Joe Birch [NOT PUBLISHED YET] - I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
+- [Android UI Development with Jetpack Compose](https://www.thomaskuenneth.eu/books/) by [Thomas Künneth](https://twitter.com/tkuenneth) - 
+Complete with hands-on examples, this easy-to-follow guide will get you up to speed with the fundamentals of Jetpack Compose such as state hoisting, unidirectional data flow, and composition over inheritance and help you build your own Android apps using Compose. You'll also cover concepts such as testing, animation, and interoperability with the existing Android UI toolkit.
+
+- [Jetpack Compose internals](https://leanpub.com/composeinternals/) by [Jorge Castillo](https://twitter.com/JorgeCastilloPr) - 
+Jetpack Compose is the future of Android UI. Master how it works internally and become a more efficient developer with it. This book provides all the details to understand how the Compose compiler & runtime work, and how to create a client library using them.
+
+- [EXPLORING JETPACK COMPOSE](https://joebirch.co/exploring-jetpack-compose/) by [Joe Birch](https://twitter.com/hitherejoe) [NOT PUBLISHED YET] -
+I’m currently writing a book, “Exploring Jetpack Compose”, where I’ll be diving into the different components that are available within the Compose APIs.
 
 - [From View to Composable](https://viewtocomposable.com) by [Alex Styl](https://twitter.com/alexstyl) – Jetpack Compose is the future of Android UI. Wouldn't it be great if you did not have to spend hundreds of hours figuring out how to do things you already know the old-fashioned way? This book includes code examples and to-the-point explanations so that you do not have to.
 
