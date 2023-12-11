@@ -144,7 +144,15 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - https://github.com/canopas/Intro-showcase-view
 
-    - An android library to highlight different features of the app built using Jetpack Compose.	
+    - An android library to highlight different features of the app built using Jetpack Compose.
+ 
+- https://github.com/canopas/rich-editor-compose
+  
+    -  Android WYSIWYG Rich editor for Jetpack compose.
+
+- https://github.com/canopas/compose-animated-navigationbar
+
+    - Cool animated navigation bars for your compose android app.
 
 ## Articles and Tutorials
 
